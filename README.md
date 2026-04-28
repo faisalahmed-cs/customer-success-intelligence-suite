@@ -93,11 +93,15 @@ Moderate logins, elevated tickets, NPS in the 5-6 range — they look like casua
 
 ## Dashboard Preview
 
-![CS Intelligence Dashboard](charts/cs_dashboard.png)
+![CS Intelligence Dashboard](cs_dashboard.png)
 
-![Churn Feature Importance](charts/churn_feature_importance.png)
+![Churn Feature Importance](churn_feature_importance.png)
 
-![Cohort Retention Heatmap](charts/cohort_retention_heatmap.png)
+![Cohort Retention Heatmap](cohort_retention_heatmap.png)
+
+![MRR Retention by Cohort](mrr_retention_by_cohort.png)
+
+![Churn Risk Distribution](churn_risk_distribution.png)
 
 ## How I Would Use This Day-to-Day
 
