@@ -1,0 +1,324 @@
+customer_id,company_name,industry,tier,mrr,churn_probability,risk_tier,login_freq_monthly,support_tickets_monthly,nps_score,qbr_completed,seat_utilisation,days_since_engagement
+CUST-0177,Drift Group,Media & Entertainment,Starter,686.13,0.8512928398902901,Red — Intervene Now,0,21,0.2,False,0.14,152
+CUST-0063,Halo Labs,SaaS / Tech,Scale,13772.98,0.8298899929682484,Red — Intervene Now,0,19,3.5,False,0.04,158
+CUST-0095,Echo Solutions,Healthcare,Scale,10690.52,0.8266354292908265,Red — Intervene Now,2,13,0.1,False,0.05,147
+CUST-0001,Prism HQ,SaaS / Tech,Growth,3607.98,0.8123444485095985,Red — Intervene Now,3,23,4.4,False,0.11,150
+CUST-0050,Crest Digital,SaaS / Tech,Scale,13459.49,0.8107140404964993,Red — Intervene Now,1,18,0.7,False,0.16,154
+CUST-0380,Vanta Co,Financial Services,Growth,1874.86,0.7930933892261248,Red — Intervene Now,0,23,2.1,False,0.09,119
+CUST-0348,Crest Solutions,Professional Services,Starter,720.0,0.784369042493003,Red — Intervene Now,6,12,2.0,False,0.14,153
+CUST-0426,Tide Studio,Financial Services,Scale,8483.12,0.778496047024003,Red — Intervene Now,0,13,1.6,False,0.1,129
+CUST-0058,Nexus Solutions,Media & Entertainment,Growth,4579.13,0.7766966461228665,Red — Intervene Now,0,16,0.7,False,0.09,114
+CUST-0115,Sable Media,Education,Starter,635.83,0.7749718855492954,Red — Intervene Now,0,23,4.5,False,0.12,123
+CUST-0360,Crest Ventures,Professional Services,Starter,858.11,0.7673950397424939,Red — Intervene Now,2,11,1.1,False,0.12,119
+CUST-0474,Apex Group,Financial Services,Growth,3555.56,0.7526195313076846,Red — Intervene Now,8,15,0.3,False,0.11,132
+CUST-0411,Dune Co,E-Commerce / DTC,Scale,13753.05,0.7349697253254533,Red — Intervene Now,0,11,4.4,False,0.22,143
+CUST-0071,Slate Ventures,SaaS / Tech,Starter,823.83,0.7171886028908852,Red — Intervene Now,0,11,0.0,False,0.2,98
+CUST-0024,Orbit IO,Education,Starter,742.53,0.7167356639559849,Red — Intervene Now,3,20,1.9,False,0.2,108
+CUST-0125,Faro Works,Logistics,Growth,3872.91,0.6902557578954036,Red — Intervene Now,2,16,0.3,False,0.12,80
+CUST-0199,Crest Media,Financial Services,Starter,1123.69,0.6893240654584855,Red — Intervene Now,2,9,0.3,False,0.12,84
+CUST-0186,Orbit Digital,Healthcare,Starter,896.39,0.673117853382739,Red — Intervene Now,4,17,2.9,False,0.33,112
+CUST-0362,Apex Labs,Media & Entertainment,Growth,2507.28,0.66992645835354,Red — Intervene Now,5,16,3.3,False,0.22,109
+CUST-0407,Lumis Co,Healthcare,Enterprise,33582.78,0.6684622413006877,Red — Intervene Now,3,10,2.2,False,0.21,130
+CUST-0002,Lumis Media,Financial Services,Growth,4592.77,0.6676329986465623,Red — Intervene Now,0,13,3.7,False,0.11,79
+CUST-0428,Crest Systems,Media & Entertainment,Starter,980.62,0.6675097542693705,Red — Intervene Now,3,12,0.6,False,0.33,109
+CUST-0035,Wren Solutions,Healthcare,Scale,13633.3,0.6649293404867134,Red — Intervene Now,3,16,3.6,False,0.05,91
+CUST-0495,Nova Solutions,Media & Entertainment,Starter,1248.44,0.653159620257505,Red — Intervene Now,0,10,2.8,True,0.29,76
+CUST-0355,Sable Systems,Education,Scale,13677.75,0.6400770078542098,Red — Intervene Now,5,16,3.9,False,0.14,96
+CUST-0329,Bloom Co,Logistics,Starter,1339.05,0.6096711884614823,Red — Intervene Now,5,13,2.3,True,0.2,62
+CUST-0076,Nexus Labs,Media & Entertainment,Starter,1246.59,0.5887483073684496,Yellow — Monitor,6,14,2.7,True,0.2,53
+CUST-0371,Halo Works,E-Commerce / DTC,Starter,890.78,0.5858500964011394,Yellow — Monitor,0,6,3.6,True,0.33,70
+CUST-0183,Cedar Partners,Financial Services,Scale,10717.31,0.5842099459850374,Yellow — Monitor,0,8,4.8,False,0.24,81
+CUST-0139,Zara Digital,Financial Services,Scale,6404.74,0.5816731464048386,Yellow — Monitor,3,13,5.4,True,0.36,80
+CUST-0494,Nexus Labs,Logistics,Scale,6896.62,0.5736276337215809,Yellow — Monitor,5,9,4.2,False,0.19,81
+CUST-0248,Helix Solutions,Professional Services,Enterprise,16886.97,0.5675703685667085,Yellow — Monitor,1,9,3.6,False,0.2,77
+CUST-0004,Vanta Labs,E-Commerce / DTC,Enterprise,33320.48,0.5666447730308704,Yellow — Monitor,0,16,0.4,False,0.2,65
+CUST-0021,Slate Co,Logistics,Scale,9631.67,0.5516808022808241,Yellow — Monitor,4,9,5.3,True,0.32,73
+CUST-0231,Dune Media,Education,Starter,1390.64,0.547899447245202,Yellow — Monitor,6,9,4.9,True,0.38,84
+CUST-0242,Halo Inc,SaaS / Tech,Growth,1628.28,0.5475174083618193,Yellow — Monitor,5,8,5.2,False,0.28,83
+CUST-0122,Prism Works,Media & Entertainment,Growth,3672.96,0.5469305750152924,Yellow — Monitor,5,10,3.7,False,0.33,83
+CUST-0364,Slate Media,Healthcare,Growth,2535.18,0.5409862046721171,Yellow — Monitor,4,12,4.1,False,0.25,69
+CUST-0073,Vanta Systems,SaaS / Tech,Scale,5247.72,0.540924755241861,Yellow — Monitor,5,8,2.8,True,0.47,84
+CUST-0410,Kova Works,SaaS / Tech,Growth,4574.72,0.5357873476063792,Yellow — Monitor,3,10,3.3,False,0.45,89
+CUST-0117,Prism Partners,Education,Growth,2928.16,0.5318143665735198,Yellow — Monitor,7,9,3.3,False,0.38,87
+CUST-0109,Cove Works,SaaS / Tech,Growth,4277.48,0.5186618559931137,Yellow — Monitor,7,11,5.2,False,0.38,88
+CUST-0220,Orbit Solutions,Professional Services,Growth,2293.7,0.5169678464471071,Yellow — Monitor,2,6,4.8,True,0.47,70
+CUST-0299,Nova Digital,Logistics,Starter,1081.25,0.5133541729795267,Yellow — Monitor,7,10,3.7,True,0.5,83
+CUST-0476,Ridge Group,Education,Growth,3986.51,0.5128439141245836,Yellow — Monitor,2,11,4.0,True,0.35,51
+CUST-0105,Tide IO,Professional Services,Starter,899.4,0.5117298925541892,Yellow — Monitor,9,14,3.3,False,0.25,65
+CUST-0282,Vanta Labs,E-Commerce / DTC,Starter,1388.31,0.5116512731582022,Yellow — Monitor,0,11,5.0,False,0.25,41
+CUST-0279,Prism HQ,Logistics,Starter,728.75,0.5110644398685401,Yellow — Monitor,6,10,3.1,True,0.2,35
+CUST-0420,Apex Co,SaaS / Tech,Starter,1346.47,0.5099125917631914,Yellow — Monitor,9,17,5.3,False,0.2,66
+CUST-0123,Tide Group,SaaS / Tech,Scale,5460.68,0.5054456724109646,Yellow — Monitor,5,9,4.2,False,0.19,58
+CUST-0394,Halo Inc,Education,Growth,3700.47,0.5036628985027863,Yellow — Monitor,4,15,4.6,False,0.38,70
+CUST-0417,Solus Partners,Logistics,Growth,3754.66,0.5004042628698346,Yellow — Monitor,9,14,3.0,False,0.3,68
+CUST-0056,Prism Systems,Financial Services,Starter,602.96,0.49629795930498266,Yellow — Monitor,4,16,5.7,False,0.2,41
+CUST-0163,Cedar Studio,SaaS / Tech,Growth,3865.79,0.4928057216125006,Yellow — Monitor,8,9,5.1,True,0.24,53
+CUST-0422,Lumis Group,Media & Entertainment,Starter,1331.61,0.49223679633310885,Yellow — Monitor,2,16,3.4,False,0.25,34
+CUST-0406,Prism Ventures,Education,Growth,1726.7,0.48907877813677303,Yellow — Monitor,7,13,6.0,False,0.4,87
+CUST-0239,Halo Co,Professional Services,Scale,6081.66,0.48407557652863287,Yellow — Monitor,7,8,3.8,False,0.35,71
+CUST-0185,Faro Labs,Logistics,Enterprise,35663.1,0.4755395714101465,Yellow — Monitor,4,8,5.2,False,0.2,78
+CUST-0039,Zara Partners,Professional Services,Scale,5292.29,0.47525131493021433,Yellow — Monitor,10,7,2.3,False,0.39,78
+CUST-0453,Drift Digital,Financial Services,Starter,883.99,0.4748978368471391,Yellow — Monitor,7,6,3.9,False,0.12,41
+CUST-0205,Pulse Labs,Education,Growth,4638.55,0.4699732225573481,Yellow — Monitor,4,6,5.4,False,0.33,62
+CUST-0350,Drift Group,Media & Entertainment,Scale,11404.07,0.46448042087821384,Yellow — Monitor,0,9,3.9,False,0.4,55
+CUST-0257,Cedar HQ,Education,Growth,4099.49,0.46343037216432736,Yellow — Monitor,7,14,3.4,False,0.44,68
+CUST-0081,Slate Group,Healthcare,Growth,3169.85,0.453105593680223,Yellow — Monitor,6,19,6.3,False,0.24,39
+CUST-0377,Glen Works,Education,Scale,10434.25,0.45070869728754576,Yellow — Monitor,4,9,4.1,False,0.37,58
+CUST-0038,Dune Labs,Logistics,Growth,2564.75,0.443026398939183,Yellow — Monitor,8,12,5.8,False,0.24,45
+CUST-0419,Cedar Inc,E-Commerce / DTC,Enterprise,15055.99,0.43879871020271444,Yellow — Monitor,8,13,4.5,False,0.21,52
+CUST-0289,Apex Media,Healthcare,Starter,1316.14,0.43877571964487994,Yellow — Monitor,9,14,3.2,True,0.33,30
+CUST-0293,Echo Studio,Logistics,Scale,5475.71,0.4381351850573324,Yellow — Monitor,6,9,3.8,False,0.22,34
+CUST-0481,Forge Systems,Financial Services,Growth,3915.42,0.436790024377675,Yellow — Monitor,11,7,5.2,True,0.43,74
+CUST-0082,Prism HQ,SaaS / Tech,Growth,1655.37,0.4348496423183599,Yellow — Monitor,10,10,4.6,False,0.21,47
+CUST-0251,Tide Systems,Logistics,Growth,4527.92,0.43266455743554044,Yellow — Monitor,2,8,4.5,False,0.31,37
+CUST-0354,Dune Co,Education,Growth,3457.26,0.43156786399962266,Yellow — Monitor,6,10,6.2,False,0.25,48
+CUST-0235,Tide Works,Financial Services,Enterprise,27074.53,0.43076115257397946,Yellow — Monitor,3,15,4.7,False,0.34,52
+CUST-0156,Peak Ventures,Logistics,Starter,694.95,0.42423169135997696,Yellow — Monitor,6,7,2.9,False,0.25,31
+CUST-0345,Halo Works,SaaS / Tech,Growth,4484.85,0.42381044151795816,Yellow — Monitor,8,9,3.6,False,0.48,70
+CUST-0327,Glen HQ,Education,Starter,1178.42,0.4127411765934266,Yellow — Monitor,6,15,4.4,False,0.33,32
+CUST-0062,Dune Ventures,Financial Services,Starter,1276.84,0.41166363305363013,Yellow — Monitor,8,9,3.0,False,0.38,43
+CUST-0029,Nexus Digital,E-Commerce / DTC,Growth,4060.54,0.4101363849843446,Yellow — Monitor,10,11,3.2,True,0.43,43
+CUST-0270,Slate Ventures,E-Commerce / DTC,Scale,12109.08,0.39885593130922437,Yellow — Monitor,1,9,4.0,False,0.48,46
+CUST-0168,Forge Studio,Healthcare,Starter,1082.46,0.3973540798221624,Yellow — Monitor,5,13,5.0,False,0.5,49
+CUST-0452,Sable IO,Financial Services,Scale,8270.95,0.38826594268267944,Yellow — Monitor,4,11,6.1,False,0.46,53
+CUST-0142,Faro Solutions,Professional Services,Growth,4437.4,0.36309919768166976,Yellow — Monitor,7,10,5.7,False,0.44,45
+CUST-0130,Flux Partners,Education,Enterprise,22655.09,0.34501273029480595,Green — Healthy,5,9,5.1,False,0.48,50
+CUST-0149,Bloom Digital,Healthcare,Starter,697.92,0.34465900175369407,Green — Healthy,15,9,7.7,True,0.25,26
+CUST-0169,Helix Works,Healthcare,Starter,544.18,0.3415628244188491,Green — Healthy,7,5,5.1,True,0.5,25
+CUST-0315,Kova Solutions,E-Commerce / DTC,Starter,692.62,0.33527466066278877,Green — Healthy,11,5,6.7,True,0.33,25
+CUST-0045,Wren HQ,SaaS / Tech,Starter,627.46,0.32585747426588485,Green — Healthy,15,3,6.8,True,0.33,32
+CUST-0245,Flux Co,Professional Services,Starter,757.65,0.32256220360640997,Green — Healthy,9,3,5.9,False,0.4,31
+CUST-0066,Peak Labs,Healthcare,Growth,3643.35,0.3224709113579018,Green — Healthy,6,5,5.2,False,0.47,31
+CUST-0044,Solus Co,Logistics,Starter,878.89,0.3195614184162473,Green — Healthy,8,3,6.1,False,0.43,33
+CUST-0443,Halo Media,Media & Entertainment,Growth,2853.95,0.31728628237035583,Green — Healthy,10,5,8.0,True,0.4,25
+CUST-0159,Nova HQ,E-Commerce / DTC,Scale,7957.44,0.3172474830194374,Green — Healthy,4,4,6.8,True,0.47,20
+CUST-0106,Solus Studio,Professional Services,Starter,1012.59,0.3166449442774584,Green — Healthy,10,4,6.8,False,0.33,33
+CUST-0074,Drift Co,Media & Entertainment,Starter,1451.65,0.30817269861811475,Green — Healthy,10,2,6.9,True,0.4,19
+CUST-0101,Faro Solutions,E-Commerce / DTC,Enterprise,32087.41,0.30641696583232686,Green — Healthy,8,12,5.1,False,0.41,37
+CUST-0384,Peak Studio,E-Commerce / DTC,Starter,741.43,0.30600738709183567,Green — Healthy,11,2,5.1,True,0.5,32
+CUST-0167,Prism Ventures,SaaS / Tech,Starter,1488.58,0.3057979185599773,Green — Healthy,6,6,6.0,True,0.6,24
+CUST-0472,Solus IO,Education,Growth,3289.84,0.28960702503339364,Green — Healthy,17,8,6.7,True,0.41,34
+CUST-0389,Helix Digital,SaaS / Tech,Starter,597.59,0.28822787794705146,Green — Healthy,8,2,6.8,True,0.57,27
+CUST-0340,Forge Studio,Logistics,Starter,703.12,0.28546940244949515,Green — Healthy,6,5,8.5,False,0.5,32
+CUST-0025,Slate HQ,Healthcare,Starter,1168.06,0.2834169178848778,Green — Healthy,12,5,6.9,False,0.43,29
+CUST-0075,Cove Systems,Professional Services,Scale,12901.95,0.2823958073850642,Green — Healthy,12,3,5.9,True,0.47,27
+CUST-0273,Drift Media,Logistics,Starter,1272.44,0.28226610480547726,Green — Healthy,12,1,7.1,True,0.4,17
+CUST-0137,Faro HQ,Media & Entertainment,Growth,3364.79,0.2817970315543243,Green — Healthy,9,4,8.8,True,0.42,16
+CUST-0226,Ridge Digital,Healthcare,Scale,5084.24,0.27820741981520297,Green — Healthy,9,5,6.9,True,0.59,28
+CUST-0432,Peak Studio,Education,Starter,1398.66,0.27491749934122994,Green — Healthy,13,4,7.0,True,0.4,13
+CUST-0006,Drift Solutions,E-Commerce / DTC,Growth,3808.27,0.27449773813441486,Green — Healthy,13,3,6.6,True,0.45,18
+CUST-0486,Apex Systems,Healthcare,Starter,597.11,0.2725966088483341,Green — Healthy,15,4,7.7,True,0.5,32
+CUST-0436,Peak Co,SaaS / Tech,Growth,1921.7,0.2694844785696691,Green — Healthy,12,3,6.0,False,0.45,27
+CUST-0153,Dune Ventures,E-Commerce / DTC,Scale,6341.53,0.26854088752233884,Green — Healthy,9,6,7.2,False,0.47,32
+CUST-0034,Crest Group,Education,Scale,9593.52,0.26763027423529223,Green — Healthy,8,3,5.6,True,0.48,10
+CUST-0213,Faro Works,Media & Entertainment,Starter,1359.79,0.25875351169421396,Green — Healthy,8,8,6.9,False,0.5,19
+CUST-0433,Sable Labs,Professional Services,Scale,6882.38,0.25869043760860894,Green — Healthy,14,10,6.1,True,0.5,17
+CUST-0400,Slate Digital,Financial Services,Starter,650.19,0.25316844961231233,Green — Healthy,14,5,7.1,True,0.57,27
+CUST-0093,Pulse Systems,Professional Services,Starter,1189.29,0.24835140161472632,Green — Healthy,10,2,8.5,True,0.5,18
+CUST-0402,Glen Digital,Financial Services,Scale,12586.1,0.24679725909837258,Green — Healthy,7,5,6.2,True,0.62,14
+CUST-0049,Prism Works,Education,Growth,4164.22,0.24483714032514098,Green — Healthy,10,5,7.1,True,0.6,18
+CUST-0083,Slate Systems,E-Commerce / DTC,Growth,2264.53,0.2409988313424681,Green — Healthy,8,3,6.1,True,0.67,15
+CUST-0499,Cove Group,Professional Services,Scale,10702.33,0.23851525661388032,Green — Healthy,11,6,7.7,False,0.47,29
+CUST-0051,Prism Group,Financial Services,Growth,3619.97,0.23832314673518543,Green — Healthy,13,6,8.1,True,0.45,12
+CUST-0078,Zara Studio,E-Commerce / DTC,Growth,4637.94,0.2381842594401403,Green — Healthy,13,7,7.3,True,0.62,28
+CUST-0405,Wren Studio,Healthcare,Scale,7653.6,0.23665865104642395,Green — Healthy,11,3,5.6,False,0.62,32
+CUST-0347,Nexus HQ,Education,Starter,1108.82,0.2363635588379327,Green — Healthy,10,6,6.1,False,0.5,13
+CUST-0455,Forge IO,Logistics,Scale,6453.15,0.23386496838487952,Green — Healthy,13,3,7.8,True,0.48,10
+CUST-0388,Helix Partners,Professional Services,Growth,2877.03,0.2336032655759607,Green — Healthy,11,5,6.1,True,0.58,10
+CUST-0423,Faro Partners,Media & Entertainment,Scale,6387.21,0.2334682643671858,Green — Healthy,11,3,7.5,True,0.54,19
+CUST-0372,Kova HQ,Financial Services,Growth,4951.67,0.23249426954660185,Green — Healthy,16,5,7.0,True,0.5,22
+CUST-0321,Flux Digital,Education,Growth,2318.27,0.23237349771093788,Green — Healthy,16,6,7.4,True,0.46,17
+CUST-0334,Peak Ventures,Media & Entertainment,Enterprise,35836.8,0.23154875005320097,Green — Healthy,10,0,7.2,True,0.51,31
+CUST-0342,Drift Inc,Professional Services,Growth,3099.12,0.2304005755906653,Green — Healthy,11,6,7.4,True,0.73,31
+CUST-0131,Drift Partners,Healthcare,Growth,1826.72,0.22749401575705241,Green — Healthy,12,1,6.2,False,0.53,18
+CUST-0042,Forge IO,Media & Entertainment,Growth,2775.96,0.22597605028457732,Green — Healthy,13,4,5.8,False,0.65,32
+CUST-0424,Peak Inc,Professional Services,Starter,1332.71,0.2258828857652747,Green — Healthy,15,1,6.5,True,0.5,12
+CUST-0381,Wren Inc,Healthcare,Growth,2606.08,0.2227171540136805,Green — Healthy,11,4,7.4,False,0.5,15
+CUST-0244,Wren Partners,E-Commerce / DTC,Scale,7891.02,0.2191020863306712,Green — Healthy,15,6,7.6,True,0.51,12
+CUST-0344,Pulse Group,Media & Entertainment,Starter,848.64,0.21896955584487202,Green — Healthy,14,3,6.2,False,0.5,16
+CUST-0084,Flux HQ,Financial Services,Enterprise,43662.47,0.21894827792245491,Green — Healthy,7,6,7.6,True,0.52,27
+CUST-0037,Flux IO,Financial Services,Growth,4738.24,0.21845344169908432,Green — Healthy,11,6,7.7,True,0.57,10
+CUST-0308,Vanta Solutions,SaaS / Tech,Enterprise,16687.93,0.21785010724011697,Green — Healthy,15,7,5.5,True,0.63,25
+CUST-0189,Peak Works,Financial Services,Growth,3245.16,0.2170854478380387,Green — Healthy,11,4,8.1,True,0.69,27
+CUST-0128,Tide Partners,Financial Services,Scale,9267.58,0.2167063434860578,Green — Healthy,13,3,7.5,True,0.61,25
+CUST-0444,Sable Co,E-Commerce / DTC,Scale,5143.03,0.2160079833727144,Green — Healthy,15,6,7.8,True,0.6,23
+CUST-0272,Prism Systems,SaaS / Tech,Starter,1390.17,0.21510240436193756,Green — Healthy,15,4,7.2,True,0.5,10
+CUST-0216,Ridge Digital,Healthcare,Growth,4659.47,0.2149686750176872,Green — Healthy,11,8,6.4,False,0.6,14
+CUST-0366,Orbit Partners,Logistics,Scale,10847.25,0.21487986484287505,Green — Healthy,14,1,7.8,True,0.53,25
+CUST-0252,Forge Systems,Financial Services,Scale,10215.23,0.21384461122599474,Green — Healthy,12,6,6.1,True,0.72,25
+CUST-0110,Flux IO,Media & Entertainment,Growth,2655.8,0.21242767629946765,Green — Healthy,14,4,6.4,True,0.71,24
+CUST-0291,Lumis Labs,Logistics,Starter,622.69,0.21059181098423355,Green — Healthy,15,4,7.2,True,0.6,15
+CUST-0467,Halo Ventures,Healthcare,Starter,1074.01,0.21049810946841027,Green — Healthy,11,5,5.5,False,0.62,10
+CUST-0376,Drift Works,Education,Scale,9936.62,0.20693508727672197,Green — Healthy,15,4,5.9,False,0.5,20
+CUST-0324,Orbit Group,Financial Services,Growth,1688.69,0.2047518617799375,Green — Healthy,15,1,7.7,True,0.58,15
+CUST-0086,Sable Works,Education,Growth,2393.71,0.20254797076847061,Green — Healthy,12,2,7.7,True,0.62,11
+CUST-0166,Flux HQ,Education,Scale,5737.62,0.20244656365601973,Green — Healthy,11,3,5.7,True,0.75,17
+CUST-0132,Solus Solutions,Financial Services,Growth,3565.95,0.2021582964893806,Green — Healthy,18,3,7.8,False,0.4,19
+CUST-0485,Peak Works,Media & Entertainment,Scale,6814.09,0.20145084990565781,Green — Healthy,13,6,6.1,False,0.64,25
+CUST-0451,Zara Studio,Financial Services,Scale,8095.32,0.19949402297634417,Green — Healthy,11,4,6.9,False,0.65,26
+CUST-0203,Zara Group,Education,Scale,7291.36,0.19864570520051705,Green — Healthy,15,5,5.8,False,0.62,28
+CUST-0088,Forge Inc,Financial Services,Growth,1699.77,0.1958666774053768,Green — Healthy,10,3,6.0,False,0.67,17
+CUST-0180,Tide Solutions,E-Commerce / DTC,Growth,2818.22,0.19557387089891556,Green — Healthy,13,5,7.7,True,0.67,10
+CUST-0057,Ridge Labs,Professional Services,Enterprise,18661.98,0.19467780632770382,Green — Healthy,12,8,8.0,True,0.59,11
+CUST-0027,Bloom Inc,Media & Entertainment,Starter,1111.17,0.1934636229111232,Green — Healthy,10,3,5.9,False,0.67,14
+CUST-0236,Flux Partners,Media & Entertainment,Enterprise,39866.5,0.19252000924377033,Green — Healthy,13,3,7.4,True,0.5,21
+CUST-0439,Cove Solutions,Financial Services,Growth,4492.01,0.19189778426011433,Green — Healthy,16,8,6.7,True,0.7,21
+CUST-0069,Crest Group,Education,Starter,1096.56,0.19185802265275703,Green — Healthy,14,2,8.1,True,0.67,14
+CUST-0437,Drift Digital,E-Commerce / DTC,Scale,11604.02,0.19122666207326966,Green — Healthy,17,3,5.8,True,0.64,26
+CUST-0283,Zara HQ,E-Commerce / DTC,Growth,3730.53,0.19051441389066054,Green — Healthy,20,8,6.1,True,0.67,29
+CUST-0097,Cove Solutions,Healthcare,Scale,13096.79,0.18990586019785022,Green — Healthy,12,3,7.5,False,0.66,31
+CUST-0015,Nexus Systems,Education,Scale,12466.93,0.18947955177093836,Green — Healthy,12,2,6.6,True,0.66,15
+CUST-0339,Faro Studio,E-Commerce / DTC,Scale,7558.66,0.18166322297480908,Green — Healthy,15,2,5.9,True,0.65,12
+CUST-0489,Zara Inc,E-Commerce / DTC,Growth,2088.98,0.18112446271860688,Green — Healthy,13,5,6.7,False,0.67,11
+CUST-0032,Dune IO,Financial Services,Enterprise,31652.31,0.17974712138773477,Green — Healthy,10,3,6.3,True,0.72,21
+CUST-0379,Drift Digital,Logistics,Scale,7175.36,0.17963921466702387,Green — Healthy,15,4,8.1,True,0.7,25
+CUST-0454,Drift Partners,Financial Services,Enterprise,33816.66,0.17895199417422658,Green — Healthy,16,0,7.2,True,0.58,29
+CUST-0353,Vanta Labs,Healthcare,Starter,1230.14,0.17803779818685914,Green — Healthy,16,7,7.7,True,0.67,11
+CUST-0313,Lumis Ventures,Media & Entertainment,Scale,9475.02,0.1768278889726861,Green — Healthy,21,3,5.8,True,0.67,29
+CUST-0129,Faro Labs,Professional Services,Scale,5571.21,0.17659089277957,Green — Healthy,12,2,6.4,False,0.65,10
+CUST-0267,Dune Partners,Education,Enterprise,41715.37,0.17073474777227512,Green — Healthy,11,3,4.9,False,0.61,28
+CUST-0409,Helix Solutions,Media & Entertainment,Scale,9055.03,0.17000973280354634,Green — Healthy,17,3,7.0,False,0.54,11
+CUST-0007,Prism Digital,Healthcare,Scale,12990.3,0.1680369359986029,Green — Healthy,15,2,6.1,True,0.69,13
+CUST-0457,Lumis Works,Education,Enterprise,30019.29,0.16749613656314685,Green — Healthy,16,8,5.6,True,0.71,25
+CUST-0020,Cove Media,Financial Services,Enterprise,34907.15,0.16706005010257896,Green — Healthy,16,4,7.6,True,0.52,15
+CUST-0041,Peak Inc,Media & Entertainment,Scale,5176.03,0.16631008559409396,Green — Healthy,17,0,6.4,False,0.73,30
+CUST-0232,Ridge Media,Healthcare,Scale,8711.68,0.16533337731540992,Green — Healthy,19,4,6.4,True,0.73,20
+CUST-0460,Vanta Media,E-Commerce / DTC,Enterprise,17103.99,0.16390041649298778,Green — Healthy,18,3,7.2,True,0.6,14
+CUST-0396,Ridge Ventures,Education,Enterprise,33640.83,0.15739128360403595,Green — Healthy,22,6,5.1,False,0.48,23
+CUST-0102,Vanta HQ,Financial Services,Starter,732.04,0.15619699824472694,Green — Healthy,18,2,7.1,False,0.57,10
+CUST-0397,Glen IO,Professional Services,Starter,1434.19,0.14892979364127093,Green — Healthy,26,5,10.0,True,0.5,8
+CUST-0292,Tide Labs,E-Commerce / DTC,Scale,14510.17,0.13821474120618485,Green — Healthy,19,5,8.1,False,0.72,31
+CUST-0431,Glen HQ,Education,Starter,1258.64,0.1375990185054671,Green — Healthy,28,3,8.6,True,0.5,6
+CUST-0096,Pulse Co,Financial Services,Enterprise,46218.12,0.13676635027711498,Green — Healthy,17,2,7.2,False,0.5,25
+CUST-0151,Ridge Partners,Media & Entertainment,Enterprise,46712.48,0.13271702107921896,Green — Healthy,13,6,6.0,True,0.74,12
+CUST-0301,Orbit Labs,Media & Entertainment,Starter,1296.39,0.12905658746964915,Green — Healthy,20,2,9.2,True,0.75,10
+CUST-0429,Ridge Solutions,Education,Starter,882.87,0.1263004623885988,Green — Healthy,19,0,7.7,True,0.75,3
+CUST-0349,Pulse Digital,SaaS / Tech,Growth,3203.98,0.12460601852613434,Green — Healthy,19,0,7.7,True,0.87,12
+CUST-0047,Crest Studio,E-Commerce / DTC,Growth,3465.24,0.11730610163450844,Green — Healthy,20,2,8.3,True,0.75,1
+CUST-0108,Pulse Partners,Professional Services,Growth,4522.23,0.11540736300006287,Green — Healthy,23,0,8.9,True,0.74,12
+CUST-0028,Solus Group,E-Commerce / DTC,Growth,3575.74,0.1146473693488872,Green — Healthy,18,0,7.9,True,0.92,8
+CUST-0412,Glen Inc,Education,Growth,2162.57,0.11377519992557612,Green — Healthy,20,0,9.3,True,0.82,5
+CUST-0143,Forge Digital,Education,Growth,4115.02,0.11254579645193927,Green — Healthy,23,1,8.8,True,0.77,12
+CUST-0221,Faro Co,Professional Services,Growth,4341.01,0.11176515388917682,Green — Healthy,21,2,9.4,True,0.78,5
+CUST-0414,Orbit Partners,Financial Services,Starter,769.69,0.11175405361647656,Green — Healthy,24,1,7.7,True,0.75,4
+CUST-0114,Solus Partners,Professional Services,Starter,670.82,0.11174895348201298,Green — Healthy,22,3,9.0,True,0.75,3
+CUST-0144,Flux Ventures,Education,Starter,857.13,0.11105735493856357,Green — Healthy,34,2,10.0,True,0.5,6
+CUST-0323,Cove Digital,Healthcare,Starter,836.57,0.11020423181602881,Green — Healthy,36,1,8.8,True,0.5,10
+CUST-0309,Cedar IO,Media & Entertainment,Growth,1661.69,0.10924598317595287,Green — Healthy,25,1,7.5,True,0.82,9
+CUST-0150,Echo Media,Financial Services,Growth,3445.09,0.10887805710095076,Green — Healthy,21,2,8.5,True,0.84,7
+CUST-0019,Faro Labs,Professional Services,Starter,982.34,0.10721542642727949,Green — Healthy,30,1,7.3,True,0.75,12
+CUST-0382,Vanta Studio,Financial Services,Growth,3328.6,0.10696600474836161,Green — Healthy,24,0,7.2,True,0.88,14
+CUST-0148,Solus IO,Logistics,Starter,531.92,0.10639136605056078,Green — Healthy,26,4,6.7,True,0.83,5
+CUST-0026,Nova Studio,E-Commerce / DTC,Growth,2473.17,0.10500681996501245,Green — Healthy,22,1,6.9,True,0.88,4
+CUST-0227,Echo HQ,Education,Growth,3324.92,0.1041945640553983,Green — Healthy,25,1,8.3,True,0.76,2
+CUST-0031,Zara Group,SaaS / Tech,Scale,10722.97,0.10343083950676658,Green — Healthy,23,2,8.5,True,0.82,11
+CUST-0263,Peak IO,Education,Starter,1341.21,0.1029617692769496,Green — Healthy,37,2,8.4,True,0.5,3
+CUST-0085,Prism HQ,E-Commerce / DTC,Scale,9622.48,0.10279156641434259,Green — Healthy,22,0,10.0,True,0.76,4
+CUST-0060,Crest Solutions,Media & Entertainment,Starter,1005.68,0.1026429836656738,Green — Healthy,28,2,9.6,True,0.75,14
+CUST-0018,Crest IO,E-Commerce / DTC,Starter,1130.16,0.10242885169793484,Green — Healthy,27,0,7.9,True,0.75,9
+CUST-0225,Orbit Inc,E-Commerce / DTC,Growth,3011.16,0.10165555029656846,Green — Healthy,26,0,10.0,True,0.79,13
+CUST-0017,Faro Group,SaaS / Tech,Starter,1449.25,0.10129407087146036,Green — Healthy,28,0,7.9,True,0.67,1
+CUST-0134,Glen Group,E-Commerce / DTC,Growth,3179.58,0.09966300430208883,Green — Healthy,24,0,9.2,True,0.86,14
+CUST-0390,Apex Media,Media & Entertainment,Scale,9606.39,0.09944556656482278,Green — Healthy,23,0,7.9,True,0.85,7
+CUST-0367,Apex HQ,Media & Entertainment,Starter,1265.83,0.09912700321357802,Green — Healthy,21,1,8.5,True,0.88,1
+CUST-0181,Prism Labs,Healthcare,Scale,5364.83,0.09880396212416812,Green — Healthy,27,0,8.8,True,0.78,13
+CUST-0469,Cedar Ventures,Financial Services,Growth,3921.59,0.09842558785403144,Green — Healthy,25,2,8.5,True,0.85,13
+CUST-0178,Drift IO,Healthcare,Starter,1360.98,0.0979848804611858,Green — Healthy,26,1,9.6,True,0.75,1
+CUST-0295,Forge Media,Healthcare,Growth,4596.03,0.09777454869561136,Green — Healthy,22,1,8.8,True,0.94,13
+CUST-0099,Lumis Ventures,Healthcare,Growth,1739.75,0.09732622180168493,Green — Healthy,22,2,9.7,True,0.85,6
+CUST-0271,Sable Inc,SaaS / Tech,Scale,10856.77,0.09645314918603644,Green — Healthy,23,3,7.9,True,0.91,14
+CUST-0470,Orbit Inc,Education,Growth,2291.46,0.09551873251750226,Green — Healthy,23,0,9.7,True,0.8,2
+CUST-0113,Solus Studio,Professional Services,Growth,2641.56,0.09513356659597555,Green — Healthy,24,2,7.6,True,0.92,10
+CUST-0157,Pulse Co,SaaS / Tech,Starter,864.41,0.09484819236972934,Green — Healthy,36,1,9.8,True,0.5,1
+CUST-0310,Lumis Solutions,Healthcare,Scale,13044.7,0.09455014241338588,Green — Healthy,22,1,9.3,True,0.8,8
+CUST-0441,Drift Solutions,Education,Starter,1298.59,0.09436712703997384,Green — Healthy,35,0,8.4,True,0.6,7
+CUST-0120,Faro Solutions,Financial Services,Growth,3930.28,0.09405073437438534,Green — Healthy,33,4,7.8,True,0.75,10
+CUST-0430,Pulse Labs,Financial Services,Growth,3077.97,0.09269555618731296,Green — Healthy,26,4,9.5,True,0.81,9
+CUST-0463,Vanta Digital,SaaS / Tech,Starter,538.0,0.09251869022370957,Green — Healthy,32,2,8.3,True,0.67,1
+CUST-0158,Cedar Inc,Healthcare,Scale,7465.81,0.08953913389292335,Green — Healthy,24,0,10.0,True,0.79,3
+CUST-0014,Flux Ventures,Financial Services,Starter,1253.57,0.088800205527421,Green — Healthy,30,0,8.8,True,0.75,7
+CUST-0209,Vanta Ventures,Media & Entertainment,Enterprise,24772.18,0.08861419462453717,Green — Healthy,22,2,9.0,True,0.82,9
+CUST-0067,Pulse Labs,Financial Services,Scale,9550.14,0.08633589598463687,Green — Healthy,22,4,9.6,True,0.9,7
+CUST-0482,Bloom Partners,Logistics,Scale,5073.21,0.08625153641133616,Green — Healthy,36,2,7.3,True,0.75,14
+CUST-0179,Cedar Systems,Logistics,Growth,4722.37,0.08598664948360897,Green — Healthy,32,1,9.7,True,0.74,13
+CUST-0403,Wren Systems,Professional Services,Growth,4867.48,0.08549419207416568,Green — Healthy,31,1,8.5,True,0.8,13
+CUST-0247,Vanta Media,Financial Services,Growth,2356.72,0.08452876387294882,Green — Healthy,26,0,9.9,True,0.92,12
+CUST-0464,Solus Ventures,Education,Growth,1761.43,0.08438781290817171,Green — Healthy,21,2,9.2,True,0.96,1
+CUST-0296,Ridge HQ,Healthcare,Growth,2550.22,0.08416381485963711,Green — Healthy,27,0,7.6,True,0.88,6
+CUST-0022,Glen Digital,Financial Services,Growth,2089.22,0.08393240750787469,Green — Healthy,27,2,7.5,True,0.92,5
+CUST-0098,Halo Works,Financial Services,Growth,1791.94,0.08365245972350029,Green — Healthy,30,2,8.7,True,0.89,11
+CUST-0359,Vanta Digital,E-Commerce / DTC,Starter,1353.78,0.08323949883310312,Green — Healthy,29,2,8.1,True,0.86,5
+CUST-0332,Cedar Works,E-Commerce / DTC,Growth,3477.31,0.08281618074454783,Green — Healthy,36,6,7.3,True,0.73,5
+CUST-0480,Glen Studio,Education,Scale,11362.63,0.08272292403342882,Green — Healthy,25,0,10.0,True,0.88,9
+CUST-0316,Tide Group,Logistics,Starter,723.64,0.08223223987846791,Green — Healthy,35,0,8.5,True,0.75,11
+CUST-0277,Ridge Systems,Healthcare,Growth,3621.24,0.0819839961595641,Green — Healthy,23,2,8.7,True,0.94,3
+CUST-0253,Forge Ventures,SaaS / Tech,Scale,8012.21,0.08136139048365289,Green — Healthy,22,1,7.5,False,0.96,10
+CUST-0243,Vanta HQ,Education,Starter,1187.73,0.08126104065690462,Green — Healthy,37,3,7.8,True,0.8,14
+CUST-0325,Vanta Digital,Professional Services,Growth,4072.59,0.08117022440857338,Green — Healthy,31,0,8.5,True,0.78,3
+CUST-0294,Nova Studio,Professional Services,Growth,2878.97,0.08082338694390884,Green — Healthy,22,0,10.0,True,0.92,3
+CUST-0121,Helix Group,Media & Entertainment,Growth,2727.27,0.08068137641300425,Green — Healthy,31,1,8.0,True,0.91,14
+CUST-0103,Pulse IO,Healthcare,Scale,10046.29,0.07973489187376231,Green — Healthy,33,1,8.1,True,0.76,13
+CUST-0192,Echo Solutions,Logistics,Enterprise,42286.71,0.0793747658683283,Green — Healthy,21,0,9.0,True,0.81,7
+CUST-0229,Cove Ventures,E-Commerce / DTC,Growth,4622.01,0.07844701968132735,Green — Healthy,34,1,8.4,True,0.75,6
+CUST-0312,Solus Media,Professional Services,Starter,1455.91,0.07837888133497377,Green — Healthy,32,0,8.5,True,0.75,2
+CUST-0188,Zara Inc,Healthcare,Scale,13706.83,0.07812128778646282,Green — Healthy,28,0,8.2,True,0.93,14
+CUST-0010,Dune IO,Media & Entertainment,Scale,8612.51,0.07795045062472969,Green — Healthy,27,0,7.6,True,0.95,10
+CUST-0399,Wren Ventures,Professional Services,Scale,14980.69,0.07783742933751407,Green — Healthy,23,2,7.4,True,0.98,4
+CUST-0280,Zara Solutions,SaaS / Tech,Scale,10115.45,0.07729513979633655,Green — Healthy,23,1,9.7,True,0.92,3
+CUST-0375,Tide Partners,Media & Entertainment,Growth,1595.84,0.07710370826302637,Green — Healthy,29,2,8.3,True,0.9,4
+CUST-0307,Zara Labs,SaaS / Tech,Growth,2102.19,0.07697849472988307,Green — Healthy,26,0,9.8,True,0.92,5
+CUST-0287,Sable Media,Professional Services,Growth,3244.74,0.07652060620444322,Green — Healthy,37,4,7.2,True,0.85,14
+CUST-0266,Nexus Labs,Education,Scale,14941.58,0.07447298714231833,Green — Healthy,31,3,9.2,True,0.79,10
+CUST-0434,Ridge HQ,Media & Entertainment,Scale,9827.59,0.0732826415472831,Green — Healthy,33,0,8.6,True,0.74,3
+CUST-0043,Faro Systems,SaaS / Tech,Starter,1270.69,0.07325324474098915,Green — Healthy,32,2,9.9,True,0.83,4
+CUST-0023,Faro Ventures,Media & Entertainment,Enterprise,28039.91,0.0730784540133456,Green — Healthy,29,1,7.4,True,0.8,5
+CUST-0330,Vanta Studio,Financial Services,Growth,2893.88,0.0727402147583119,Green — Healthy,29,0,10.0,True,0.88,4
+CUST-0336,Nova HQ,Healthcare,Growth,2722.21,0.07253620527383231,Green — Healthy,36,0,9.0,True,0.78,14
+CUST-0016,Prism Systems,SaaS / Tech,Starter,861.24,0.07240714778678664,Green — Healthy,37,0,8.9,True,0.75,5
+CUST-0092,Helix Group,Logistics,Growth,3365.03,0.07155799067822013,Green — Healthy,32,1,10.0,True,0.86,7
+CUST-0054,Lumis IO,Healthcare,Scale,13276.29,0.0712185226941252,Green — Healthy,22,1,9.8,True,0.94,1
+CUST-0492,Bloom Media,Media & Entertainment,Growth,4235.7,0.07082462201454293,Green — Healthy,37,0,6.4,True,0.79,2
+CUST-0172,Cove Systems,Education,Scale,10009.19,0.07047778368325741,Green — Healthy,31,1,9.7,True,0.88,12
+CUST-0087,Bloom Co,Professional Services,Scale,13516.35,0.07025232394869035,Green — Healthy,27,2,8.4,True,0.96,4
+CUST-0416,Solus Group,Financial Services,Starter,1073.05,0.06999759559826674,Green — Healthy,37,2,8.5,True,0.75,2
+CUST-0124,Nexus Inc,Education,Scale,9907.65,0.06989835426913873,Green — Healthy,29,1,9.6,True,0.83,3
+CUST-0276,Faro Inc,E-Commerce / DTC,Scale,5143.37,0.06895528530978774,Green — Healthy,29,1,9.2,True,0.98,13
+CUST-0237,Solus Group,Healthcare,Scale,11169.08,0.06883424363165637,Green — Healthy,32,1,7.5,True,0.91,7
+CUST-0319,Forge Partners,Financial Services,Growth,3530.9,0.06879380981644131,Green — Healthy,33,4,9.8,True,0.89,8
+CUST-0398,Solus Ventures,Logistics,Growth,2254.92,0.06859512775409532,Green — Healthy,37,4,9.4,True,0.79,4
+CUST-0297,Crest Inc,Professional Services,Scale,12247.69,0.06732328941991758,Green — Healthy,29,0,8.5,True,0.93,9
+CUST-0072,Kova Ventures,Financial Services,Starter,1189.76,0.0669668763976482,Green — Healthy,40,0,9.9,True,0.67,6
+CUST-0328,Prism Digital,SaaS / Tech,Growth,1668.31,0.06684348108479674,Green — Healthy,38,0,8.7,True,0.8,9
+CUST-0194,Faro Digital,Healthcare,Scale,9729.35,0.06644098433957311,Green — Healthy,32,0,8.5,True,0.89,6
+CUST-0262,Pulse Studio,E-Commerce / DTC,Enterprise,24063.23,0.0657945072124568,Green — Healthy,34,0,8.4,True,0.75,3
+CUST-0212,Drift Studio,Media & Entertainment,Growth,3049.12,0.06551817859921841,Green — Healthy,37,1,9.5,True,0.78,7
+CUST-0370,Glen Systems,Professional Services,Enterprise,29032.28,0.06494330835973736,Green — Healthy,22,1,9.4,True,0.93,1
+CUST-0385,Tide Studio,Media & Entertainment,Scale,7590.96,0.06447546870892935,Green — Healthy,37,0,8.8,True,0.8,4
+CUST-0459,Flux Digital,Media & Entertainment,Enterprise,19601.2,0.06422673590624628,Green — Healthy,30,6,7.3,True,0.99,12
+CUST-0338,Lumis Inc,SaaS / Tech,Growth,2927.07,0.06347607381593207,Green — Healthy,31,0,8.7,True,0.94,5
+CUST-0288,Peak HQ,Healthcare,Growth,2678.78,0.06340937079756992,Green — Healthy,37,1,9.5,True,0.82,6
+CUST-0079,Apex Media,E-Commerce / DTC,Scale,7087.4,0.06282884335655244,Green — Healthy,32,0,8.1,True,0.95,6
+CUST-0491,Drift IO,Media & Entertainment,Growth,4214.47,0.0626867313243839,Green — Healthy,34,2,9.4,True,0.94,8
+CUST-0450,Cove Ventures,Media & Entertainment,Scale,8768.55,0.06267628040509515,Green — Healthy,35,2,7.0,True,0.9,8
+CUST-0357,Nexus Works,Media & Entertainment,Growth,3038.46,0.06223249054280254,Green — Healthy,35,0,7.8,True,0.87,1
+CUST-0418,Faro Media,SaaS / Tech,Growth,2674.74,0.06094717805302817,Green — Healthy,36,0,8.2,True,0.94,9
+CUST-0461,Nexus Media,Education,Enterprise,31951.11,0.06010164156815553,Green — Healthy,29,1,8.1,False,0.85,12
+CUST-0059,Kova Inc,E-Commerce / DTC,Scale,8049.96,0.05951282797787053,Green — Healthy,38,1,6.8,True,0.9,11
+CUST-0214,Orbit Digital,SaaS / Tech,Scale,8105.2,0.05910926799911921,Green — Healthy,30,0,9.6,True,0.95,5
+CUST-0224,Crest Digital,Professional Services,Growth,3912.13,0.059008280383560166,Green — Healthy,35,0,9.6,True,0.91,10
+CUST-0219,Sable Digital,SaaS / Tech,Scale,11738.42,0.058542352317002284,Green — Healthy,36,2,6.9,True,0.95,10
+CUST-0061,Cove Solutions,Professional Services,Enterprise,47175.0,0.056399282500554336,Green — Healthy,25,0,9.1,False,0.83,14
+CUST-0187,Vanta IO,Education,Scale,7017.0,0.056076099425631895,Green — Healthy,38,2,8.0,True,0.88,1
+CUST-0119,Cove Media,Logistics,Enterprise,45877.17,0.05582009280096966,Green — Healthy,32,2,8.9,True,0.76,9
+CUST-0404,Cove Co,Financial Services,Enterprise,27845.04,0.05515399091822105,Green — Healthy,31,4,8.7,True,0.98,12
+CUST-0068,Forge HQ,Professional Services,Scale,13609.88,0.05267734470395177,Green — Healthy,39,2,9.0,True,0.93,13
+CUST-0322,Wren Systems,Professional Services,Scale,13278.72,0.05266712753970204,Green — Healthy,35,0,8.3,True,0.91,2
+CUST-0133,Ridge Systems,Professional Services,Growth,3693.57,0.05210760032747045,Green — Healthy,38,1,10.0,True,0.95,12
+CUST-0223,Sable Labs,SaaS / Tech,Enterprise,15001.23,0.051964664305867554,Green — Healthy,30,3,8.8,False,0.92,5
+CUST-0154,Pulse Group,Financial Services,Scale,13959.43,0.0517939352755701,Green — Healthy,36,0,9.7,True,0.91,4
+CUST-0238,Pulse Labs,Professional Services,Scale,6412.39,0.050433845978154326,Green — Healthy,41,2,8.0,True,0.86,1
+CUST-0112,Wren Studio,SaaS / Tech,Enterprise,35616.39,0.048725595572854906,Green — Healthy,32,1,8.7,False,0.8,10
+CUST-0448,Dune IO,Logistics,Enterprise,35288.41,0.04700250385996765,Green — Healthy,34,2,7.2,True,0.97,7
+CUST-0285,Vanta Partners,Education,Enterprise,39621.84,0.04510959982209288,Green — Healthy,38,2,9.0,True,0.84,8
+CUST-0427,Forge Systems,Media & Entertainment,Enterprise,28970.51,0.04485210351686495,Green — Healthy,38,0,7.4,True,0.89,6
+CUST-0421,Flux Works,Healthcare,Enterprise,45707.09,0.04278887697345094,Green — Healthy,34,3,8.0,True,0.92,7

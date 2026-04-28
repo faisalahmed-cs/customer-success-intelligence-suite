@@ -1,0 +1,105 @@
+customer_id,company_name,industry,tier,mrr,health_score,seat_utilisation,nps_score
+CUST-0061,Cove Solutions,Professional Services,Enterprise,47175.0,88,0.83,9.1
+CUST-0119,Cove Media,Logistics,Enterprise,45877.17,100,0.76,8.9
+CUST-0421,Flux Works,Healthcare,Enterprise,45707.09,100,0.92,8.0
+CUST-0192,Echo Solutions,Logistics,Enterprise,42286.71,100,0.81,9.0
+CUST-0285,Vanta Partners,Education,Enterprise,39621.84,100,0.84,9.0
+CUST-0112,Wren Studio,SaaS / Tech,Enterprise,35616.39,88,0.8,8.7
+CUST-0461,Nexus Media,Education,Enterprise,31951.11,88,0.85,8.1
+CUST-0370,Glen Systems,Professional Services,Enterprise,29032.28,100,0.93,9.4
+CUST-0404,Cove Co,Financial Services,Enterprise,27845.04,92,0.98,8.7
+CUST-0209,Vanta Ventures,Media & Entertainment,Enterprise,24772.18,100,0.82,9.0
+CUST-0262,Pulse Studio,E-Commerce / DTC,Enterprise,24063.23,100,0.75,8.4
+CUST-0223,Sable Labs,SaaS / Tech,Enterprise,15001.23,88,0.92,8.8
+CUST-0266,Nexus Labs,Education,Scale,14941.58,100,0.79,9.2
+CUST-0154,Pulse Group,Financial Services,Scale,13959.43,100,0.91,9.7
+CUST-0188,Zara Inc,Healthcare,Scale,13706.83,100,0.93,8.2
+CUST-0068,Forge HQ,Professional Services,Scale,13609.88,100,0.93,9.0
+CUST-0087,Bloom Co,Professional Services,Scale,13516.35,100,0.96,8.4
+CUST-0322,Wren Systems,Professional Services,Scale,13278.72,100,0.91,8.3
+CUST-0054,Lumis IO,Healthcare,Scale,13276.29,100,0.94,9.8
+CUST-0310,Lumis Solutions,Healthcare,Scale,13044.7,100,0.8,9.3
+CUST-0297,Crest Inc,Professional Services,Scale,12247.69,100,0.93,8.5
+CUST-0480,Glen Studio,Education,Scale,11362.63,100,0.88,10.0
+CUST-0237,Solus Group,Healthcare,Scale,11169.08,93,0.91,7.5
+CUST-0271,Sable Inc,SaaS / Tech,Scale,10856.77,93,0.91,7.9
+CUST-0031,Zara Group,SaaS / Tech,Scale,10722.97,100,0.82,8.5
+CUST-0280,Zara Solutions,SaaS / Tech,Scale,10115.45,100,0.92,9.7
+CUST-0103,Pulse IO,Healthcare,Scale,10046.29,100,0.76,8.1
+CUST-0172,Cove Systems,Education,Scale,10009.19,100,0.88,9.7
+CUST-0124,Nexus Inc,Education,Scale,9907.65,100,0.83,9.6
+CUST-0194,Faro Digital,Healthcare,Scale,9729.35,100,0.89,8.5
+CUST-0085,Prism HQ,E-Commerce / DTC,Scale,9622.48,100,0.76,10.0
+CUST-0390,Apex Media,Media & Entertainment,Scale,9606.39,93,0.85,7.9
+CUST-0067,Pulse Labs,Financial Services,Scale,9550.14,92,0.9,9.6
+CUST-0010,Dune IO,Media & Entertainment,Scale,8612.51,93,0.95,7.6
+CUST-0214,Orbit Digital,SaaS / Tech,Scale,8105.2,100,0.95,9.6
+CUST-0253,Forge Ventures,SaaS / Tech,Scale,8012.21,81,0.96,7.5
+CUST-0385,Tide Studio,Media & Entertainment,Scale,7590.96,100,0.8,8.8
+CUST-0158,Cedar Inc,Healthcare,Scale,7465.81,100,0.79,10.0
+CUST-0079,Apex Media,E-Commerce / DTC,Scale,7087.4,100,0.95,8.1
+CUST-0187,Vanta IO,Education,Scale,7017.0,100,0.88,8.0
+CUST-0238,Pulse Labs,Professional Services,Scale,6412.39,100,0.86,8.0
+CUST-0181,Prism Labs,Healthcare,Scale,5364.83,100,0.78,8.8
+CUST-0276,Faro Inc,E-Commerce / DTC,Scale,5143.37,100,0.98,9.2
+CUST-0403,Wren Systems,Professional Services,Growth,4867.48,100,0.8,8.5
+CUST-0229,Cove Ventures,E-Commerce / DTC,Growth,4622.01,100,0.75,8.4
+CUST-0295,Forge Media,Healthcare,Growth,4596.03,100,0.94,8.8
+CUST-0221,Faro Co,Professional Services,Growth,4341.01,100,0.78,9.4
+CUST-0491,Drift IO,Media & Entertainment,Growth,4214.47,100,0.94,9.4
+CUST-0143,Forge Digital,Education,Growth,4115.02,100,0.77,8.8
+CUST-0325,Vanta Digital,Professional Services,Growth,4072.59,100,0.78,8.5
+CUST-0120,Faro Solutions,Financial Services,Growth,3930.28,85,0.75,7.8
+CUST-0469,Cedar Ventures,Financial Services,Growth,3921.59,100,0.85,8.5
+CUST-0224,Crest Digital,Professional Services,Growth,3912.13,100,0.91,9.6
+CUST-0133,Ridge Systems,Professional Services,Growth,3693.57,100,0.95,10.0
+CUST-0277,Ridge Systems,Healthcare,Growth,3621.24,100,0.94,8.7
+CUST-0028,Solus Group,E-Commerce / DTC,Growth,3575.74,83,0.92,7.9
+CUST-0319,Forge Partners,Financial Services,Growth,3530.9,92,0.89,9.8
+CUST-0047,Crest Studio,E-Commerce / DTC,Growth,3465.24,100,0.75,8.3
+CUST-0150,Echo Media,Financial Services,Growth,3445.09,100,0.84,8.5
+CUST-0092,Helix Group,Logistics,Growth,3365.03,100,0.86,10.0
+CUST-0227,Echo HQ,Education,Growth,3324.92,100,0.76,8.3
+CUST-0349,Pulse Digital,SaaS / Tech,Growth,3203.98,83,0.87,7.7
+CUST-0134,Glen Group,E-Commerce / DTC,Growth,3179.58,100,0.86,9.2
+CUST-0430,Pulse Labs,Financial Services,Growth,3077.97,92,0.81,9.5
+CUST-0212,Drift Studio,Media & Entertainment,Growth,3049.12,100,0.78,9.5
+CUST-0357,Nexus Works,Media & Entertainment,Growth,3038.46,93,0.87,7.8
+CUST-0225,Orbit Inc,E-Commerce / DTC,Growth,3011.16,100,0.79,10.0
+CUST-0338,Lumis Inc,SaaS / Tech,Growth,2927.07,100,0.94,8.7
+CUST-0330,Vanta Studio,Financial Services,Growth,2893.88,100,0.88,10.0
+CUST-0294,Nova Studio,Professional Services,Growth,2878.97,100,0.92,10.0
+CUST-0121,Helix Group,Media & Entertainment,Growth,2727.27,100,0.91,8.0
+CUST-0336,Nova HQ,Healthcare,Growth,2722.21,100,0.78,9.0
+CUST-0288,Peak HQ,Healthcare,Growth,2678.78,100,0.82,9.5
+CUST-0418,Faro Media,SaaS / Tech,Growth,2674.74,100,0.94,8.2
+CUST-0113,Solus Studio,Professional Services,Growth,2641.56,93,0.92,7.6
+CUST-0296,Ridge HQ,Healthcare,Growth,2550.22,93,0.88,7.6
+CUST-0247,Vanta Media,Financial Services,Growth,2356.72,100,0.92,9.9
+CUST-0470,Orbit Inc,Education,Growth,2291.46,100,0.8,9.7
+CUST-0398,Solus Ventures,Logistics,Growth,2254.92,92,0.79,9.4
+CUST-0412,Glen Inc,Education,Growth,2162.57,100,0.82,9.3
+CUST-0307,Zara Labs,SaaS / Tech,Growth,2102.19,100,0.92,9.8
+CUST-0022,Glen Digital,Financial Services,Growth,2089.22,93,0.92,7.5
+CUST-0098,Halo Works,Financial Services,Growth,1791.94,100,0.89,8.7
+CUST-0464,Solus Ventures,Education,Growth,1761.43,100,0.96,9.2
+CUST-0099,Lumis Ventures,Healthcare,Growth,1739.75,100,0.85,9.7
+CUST-0328,Prism Digital,SaaS / Tech,Growth,1668.31,100,0.8,8.7
+CUST-0309,Cedar IO,Media & Entertainment,Growth,1661.69,93,0.82,7.5
+CUST-0375,Tide Partners,Media & Entertainment,Growth,1595.84,100,0.9,8.3
+CUST-0312,Solus Media,Professional Services,Starter,1455.91,100,0.75,8.5
+CUST-0178,Drift IO,Healthcare,Starter,1360.98,100,0.75,9.6
+CUST-0359,Vanta Digital,E-Commerce / DTC,Starter,1353.78,100,0.86,8.1
+CUST-0301,Orbit Labs,Media & Entertainment,Starter,1296.39,100,0.75,9.2
+CUST-0043,Faro Systems,SaaS / Tech,Starter,1270.69,100,0.83,9.9
+CUST-0367,Apex HQ,Media & Entertainment,Starter,1265.83,100,0.88,8.5
+CUST-0014,Flux Ventures,Financial Services,Starter,1253.57,100,0.75,8.8
+CUST-0243,Vanta HQ,Education,Starter,1187.73,93,0.8,7.8
+CUST-0018,Crest IO,E-Commerce / DTC,Starter,1130.16,93,0.75,7.9
+CUST-0416,Solus Group,Financial Services,Starter,1073.05,100,0.75,8.5
+CUST-0060,Crest Solutions,Media & Entertainment,Starter,1005.68,100,0.75,9.6
+CUST-0429,Ridge Solutions,Education,Starter,882.87,83,0.75,7.7
+CUST-0016,Prism Systems,SaaS / Tech,Starter,861.24,100,0.75,8.9
+CUST-0414,Orbit Partners,Financial Services,Starter,769.69,93,0.75,7.7
+CUST-0316,Tide Group,Logistics,Starter,723.64,100,0.75,8.5
+CUST-0114,Solus Partners,Professional Services,Starter,670.82,100,0.75,9.0
