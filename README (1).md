@@ -91,6 +91,14 @@ Moderate logins, elevated tickets, NPS in the 5-6 range — they look like casua
 
 ---
 
+## Dashboard Preview
+
+![CS Intelligence Dashboard](charts/cs_dashboard.png)
+
+![Churn Feature Importance](charts/churn_feature_importance.png)
+
+![Cohort Retention Heatmap](charts/cohort_retention_heatmap.png)
+
 ## How I Would Use This Day-to-Day
 
 **Weekly:** Pull the red account list Monday morning. Any account that moved from yellow to red since last week gets same-day outreach. Not an email — a call.
