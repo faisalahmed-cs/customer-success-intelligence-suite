@@ -1,0 +1,501 @@
+customer_id,company_name,industry,tier,archetype,contract_start,tenure_months,contract_value,mrr,login_freq_monthly,support_tickets_monthly,nps_score,qbr_completed,seats_licensed,seats_used,seat_utilisation,last_engagement,churned,churn_month
+CUST-0001,Flux Solutions,Education,Scale,casual_adopter,2022-01-04,38.9,90188.63,7515.72,13,6,4.9,False,51,26,0.55,2025-03-13,False,
+CUST-0002,Pulse Media,Media & Entertainment,Starter,power_user,2024-05-07,10.8,6632.64,552.72,39,5,8.0,False,6,5,1.0,2025-03-26,False,
+CUST-0003,Cedar Labs,SaaS / Tech,Growth,at_risk,2023-06-02,22.0,30144.23,2512.02,14,5,5.0,False,17,7,0.4,2025-03-29,False,
+CUST-0004,Apex IO,Logistics,Growth,power_user,2024-05-29,10.1,32917.5,2743.12,37,8,8.3,True,16,12,0.67,2025-03-09,False,
+CUST-0005,Nova IO,Financial Services,Starter,casual_adopter,2022-09-03,30.9,11924.76,993.73,5,3,4.7,True,3,1,0.2,2024-05-19,True,9.0
+CUST-0006,Drift Partners,Financial Services,Scale,casual_adopter,2023-09-25,18.2,100046.62,8337.22,13,7,7.5,False,72,32,0.43,2024-04-10,True,11.0
+CUST-0007,Peak Solutions,Education,Growth,power_user,2023-02-07,25.8,59340.04,4945.0,34,0,9.8,True,10,7,0.66,2025-03-10,False,
+CUST-0008,Lumis Partners,Education,Scale,casual_adopter,2022-03-01,37.0,164755.76,13729.65,16,8,5.1,False,72,32,0.64,2024-09-28,False,
+CUST-0009,Kova Studio,Media & Entertainment,Growth,power_user,2022-07-24,32.3,32482.03,2706.84,37,3,9.2,True,25,20,0.98,2025-03-22,False,
+CUST-0010,Ridge Digital,SaaS / Tech,Growth,casual_adopter,2023-06-21,21.4,26548.32,2212.36,6,5,6.4,False,17,6,0.25,2025-03-04,False,
+CUST-0011,Pulse IO,Logistics,Enterprise,power_user,2024-01-29,14.1,386721.05,32226.75,6,6,10.0,True,191,154,0.74,2025-03-28,False,
+CUST-0012,Helix IO,Education,Starter,power_user,2022-04-21,35.3,7415.14,617.93,26,0,9.9,True,6,4,0.68,2025-03-13,False,
+CUST-0013,Sable Co,E-Commerce / DTC,Starter,casual_adopter,2022-03-03,37.0,8307.71,692.31,4,3,8.5,False,7,3,0.57,2023-11-19,True,15.0
+CUST-0014,Bloom Group,SaaS / Tech,Scale,silent_churner,2021-06-29,45.1,145581.72,12131.81,0,20,3.5,False,61,10,0.17,2024-12-17,True,2.0
+CUST-0015,Pulse Co,Logistics,Growth,power_user,2022-10-12,29.6,23357.97,1946.5,31,0,7.4,True,15,14,0.87,2025-03-27,False,
+CUST-0016,Kova Inc,Healthcare,Growth,power_user,2022-04-02,36.0,58855.49,4904.62,32,7,9.0,True,20,17,0.84,2025-03-19,False,
+CUST-0017,Pulse IO,Healthcare,Scale,at_risk,2023-12-11,15.7,70509.15,5875.76,4,17,4.3,False,37,13,0.29,2024-10-16,True,5.0
+CUST-0018,Orbit Systems,E-Commerce / DTC,Growth,silent_churner,2021-12-14,39.6,59852.83,4987.74,0,18,3.0,False,25,1,0.1,2024-09-25,False,
+CUST-0019,Zara IO,Education,Scale,casual_adopter,2021-10-09,41.7,107865.4,8988.78,10,1,6.8,False,70,32,0.39,2025-03-19,False,
+CUST-0020,Drift HQ,Logistics,Growth,casual_adopter,2022-03-24,36.3,41280.35,3440.03,16,1,8.1,True,19,11,0.53,2025-03-30,False,
+CUST-0021,Lumis Group,Media & Entertainment,Growth,silent_churner,2022-12-05,27.9,35053.22,2921.1,2,19,0.9,False,22,4,0.3,2024-09-01,True,6.0
+CUST-0022,Orbit Media,E-Commerce / DTC,Starter,power_user,2023-09-02,19.0,12888.53,1074.04,21,1,6.5,True,6,5,0.75,2025-03-15,False,
+CUST-0023,Orbit Labs,Education,Starter,silent_churner,2022-11-24,28.2,10781.79,898.48,0,19,2.5,False,4,1,0.11,2025-01-13,True,2.0
+CUST-0024,Flux Digital,Education,Enterprise,casual_adopter,2021-06-24,45.2,225570.21,18797.52,7,7,10.0,False,231,93,0.41,2025-03-11,False,
+CUST-0025,Drift Works,Media & Entertainment,Growth,power_user,2021-09-23,42.2,19948.66,1662.39,20,0,8.7,True,23,18,0.74,2025-03-20,False,
+CUST-0026,Crest Media,E-Commerce / DTC,Starter,power_user,2024-07-26,8.2,15863.53,1321.96,18,4,10.0,True,5,4,0.85,2025-03-26,False,
+CUST-0027,Tide Partners,Financial Services,Growth,casual_adopter,2023-05-19,22.4,37952.23,3162.69,4,5,9.3,True,17,8,0.5,2025-03-16,False,
+CUST-0028,Zara Studio,Education,Scale,at_risk,2024-08-28,7.1,151918.07,12659.84,7,9,6.1,True,26,11,0.42,2025-03-04,False,
+CUST-0029,Peak Solutions,Healthcare,Starter,power_user,2023-11-26,16.2,6721.79,560.15,31,4,10.0,True,3,2,0.66,2025-03-24,False,
+CUST-0030,Nexus Group,Logistics,Scale,at_risk,2024-04-26,11.2,120101.14,10008.43,1,6,5.4,False,46,13,0.21,2025-03-22,False,
+CUST-0031,Kova IO,Financial Services,Starter,at_risk,2024-03-06,12.8,12523.8,1043.65,2,13,6.2,False,3,1,0.34,2024-03-08,False,
+CUST-0032,Prism Inc,Media & Entertainment,Enterprise,casual_adopter,2022-10-22,29.3,337938.57,28161.55,4,6,5.9,True,123,50,0.5,2023-06-11,True,21.0
+CUST-0033,Forge Inc,Media & Entertainment,Growth,casual_adopter,2022-05-05,34.9,24176.17,2014.68,17,8,4.6,True,24,17,0.61,2025-03-11,False,
+CUST-0034,Kova Partners,Education,Starter,power_user,2021-06-01,46.0,14084.4,1173.7,26,2,10.0,True,6,5,0.83,2025-03-26,False,
+CUST-0035,Helix HQ,Professional Services,Enterprise,power_user,2021-08-30,43.0,469432.44,39119.37,34,0,8.4,True,173,144,0.93,2025-03-12,False,
+CUST-0036,Pulse Solutions,E-Commerce / DTC,Growth,power_user,2021-10-05,41.9,54805.54,4567.13,32,0,9.4,True,20,19,1.0,2025-03-08,False,
+CUST-0037,Crest HQ,E-Commerce / DTC,Scale,at_risk,2024-05-24,10.2,69960.39,5830.03,0,11,5.1,False,25,10,0.53,2024-11-30,False,
+CUST-0038,Nexus HQ,Education,Growth,casual_adopter,2021-07-22,44.3,19657.92,1638.16,14,3,7.0,False,19,7,0.31,2023-09-30,False,
+CUST-0039,Slate Co,Professional Services,Starter,casual_adopter,2023-09-10,18.7,13603.1,1133.59,5,5,9.4,True,3,1,0.15,2025-03-05,False,
+CUST-0040,Tide Works,E-Commerce / DTC,Starter,at_risk,2022-06-16,33.5,13503.33,1125.28,9,8,4.3,False,8,2,0.27,2024-10-03,True,5.0
+CUST-0041,Apex Works,Financial Services,Starter,casual_adopter,2022-09-30,30.0,8086.85,673.9,20,3,6.7,True,3,2,0.71,2025-03-23,False,
+CUST-0042,Sable Works,Professional Services,Starter,casual_adopter,2022-04-23,35.3,13963.44,1163.62,19,0,7.8,True,4,1,0.39,2025-03-31,False,
+CUST-0043,Tide HQ,E-Commerce / DTC,Starter,at_risk,2021-09-28,42.1,16430.47,1369.21,2,9,7.5,True,6,2,0.45,2025-03-18,False,
+CUST-0044,Peak Group,Healthcare,Starter,at_risk,2022-01-01,39.0,11058.86,921.57,7,9,4.2,False,4,1,0.3,2025-03-20,False,
+CUST-0045,Ridge Inc,E-Commerce / DTC,Enterprise,power_user,2021-06-26,45.2,222254.41,18521.2,21,0,10.0,False,200,152,0.84,2025-03-20,False,
+CUST-0046,Flux Studio,SaaS / Tech,Starter,casual_adopter,2024-07-03,8.9,17166.16,1430.51,19,2,3.6,False,4,1,0.23,2025-03-14,False,
+CUST-0047,Drift Works,Logistics,Growth,casual_adopter,2022-07-09,32.8,18563.91,1546.99,21,4,5.5,False,17,9,0.41,2025-03-29,False,
+CUST-0048,Orbit HQ,Logistics,Starter,silent_churner,2022-03-19,36.4,16463.06,1371.92,5,18,2.3,False,3,1,0.34,2025-03-07,False,
+CUST-0049,Prism Systems,Media & Entertainment,Starter,at_risk,2023-09-25,18.2,7664.35,638.7,0,3,6.1,False,4,1,0.35,2025-03-13,False,
+CUST-0050,Cedar Co,Logistics,Scale,casual_adopter,2022-07-14,32.6,97121.51,8093.46,8,2,5.7,False,28,16,0.64,2025-03-10,False,
+CUST-0051,Nexus HQ,SaaS / Tech,Enterprise,silent_churner,2024-04-27,11.1,478255.76,39854.65,5,13,0.2,False,80,8,0.18,2024-07-01,True,8.0
+CUST-0052,Sable Studio,Education,Growth,power_user,2024-04-04,11.9,54222.92,4518.58,34,0,9.3,True,13,10,0.73,2025-03-16,False,
+CUST-0053,Wren Inc,Financial Services,Starter,casual_adopter,2023-09-29,18.1,8217.32,684.78,13,5,4.7,True,6,3,0.47,2025-03-18,False,
+CUST-0054,Drift Co,Financial Services,Enterprise,at_risk,2022-05-24,34.3,194381.15,16198.43,0,11,3.0,False,92,31,0.39,2024-05-21,False,
+CUST-0055,Nova Systems,E-Commerce / DTC,Starter,power_user,2024-04-07,11.8,6244.7,520.39,19,5,7.6,True,6,2,0.28,2024-04-14,False,
+CUST-0056,Faro Studio,Financial Services,Growth,casual_adopter,2023-02-24,25.2,41785.97,3482.16,13,8,4.0,True,19,13,0.63,2025-03-30,False,
+CUST-0057,Echo Labs,E-Commerce / DTC,Growth,power_user,2021-10-09,41.7,42287.71,3523.98,21,0,9.8,True,22,17,0.8,2025-03-20,False,
+CUST-0058,Vanta Studio,SaaS / Tech,Scale,at_risk,2023-02-05,25.8,169659.91,14138.33,2,14,3.2,False,67,18,0.35,2025-03-29,False,
+CUST-0059,Solus Digital,E-Commerce / DTC,Scale,at_risk,2021-09-08,42.7,119731.81,9977.65,2,10,4.2,False,28,11,0.37,2024-08-08,True,7.0
+CUST-0060,Slate Group,E-Commerce / DTC,Growth,casual_adopter,2024-02-04,13.9,39930.47,3327.54,7,9,5.1,False,24,16,0.55,2025-03-14,False,
+CUST-0061,Sable Works,Logistics,Growth,silent_churner,2024-06-07,9.8,52639.76,4386.65,5,19,0.5,False,20,2,0.03,2025-01-14,False,
+CUST-0062,Cove HQ,Education,Scale,casual_adopter,2021-06-14,45.6,152853.26,12737.77,12,5,8.4,True,53,22,0.44,2025-03-16,False,
+CUST-0063,Apex Ventures,Professional Services,Scale,at_risk,2023-07-09,20.8,110528.58,9210.72,6,2,3.7,False,47,12,0.28,2025-03-10,False,
+CUST-0064,Sable Partners,Media & Entertainment,Scale,at_risk,2023-11-12,16.6,143485.46,11957.12,16,9,6.6,False,72,17,0.26,2025-03-23,False,
+CUST-0065,Prism Digital,Media & Entertainment,Scale,casual_adopter,2024-01-09,14.7,108557.82,9046.49,10,9,5.8,False,73,30,0.46,2024-09-03,False,
+CUST-0066,Bloom Group,Media & Entertainment,Starter,casual_adopter,2021-11-12,40.6,6806.63,567.22,13,0,7.7,True,2,1,0.5,2025-03-06,False,
+CUST-0067,Flux Co,Education,Growth,silent_churner,2023-12-14,15.6,46558.44,3879.87,0,16,1.8,False,24,4,0.2,2025-01-14,True,2.0
+CUST-0068,Nova Solutions,Education,Growth,silent_churner,2022-05-26,34.2,42942.23,3578.52,6,11,2.6,False,15,3,0.2,2024-09-26,True,5.0
+CUST-0069,Solus IO,Healthcare,Growth,casual_adopter,2022-09-06,30.8,59711.3,4975.94,19,7,7.1,True,12,8,0.78,2025-03-31,False,
+CUST-0070,Dune Ventures,SaaS / Tech,Scale,at_risk,2022-01-02,38.9,139127.66,11593.97,5,13,4.3,False,51,17,0.47,2024-12-27,False,
+CUST-0071,Crest Partners,Financial Services,Starter,power_user,2022-11-18,28.4,7863.55,655.3,38,0,9.9,True,4,3,0.63,2025-03-23,False,
+CUST-0072,Wren Studio,E-Commerce / DTC,Scale,at_risk,2022-09-19,30.4,152386.4,12698.87,11,12,5.8,False,67,15,0.19,2025-03-12,False,
+CUST-0073,Kova Inc,Professional Services,Growth,at_risk,2021-08-19,43.4,41049.82,3420.82,4,9,9.6,False,19,5,0.26,2024-09-05,True,6.0
+CUST-0074,Bloom Labs,Education,Scale,silent_churner,2022-02-08,37.7,69950.97,5829.25,6,23,0.0,False,33,3,0.06,2024-06-12,False,
+CUST-0075,Forge IO,Education,Starter,silent_churner,2023-04-19,23.4,11666.31,972.19,3,8,4.3,False,7,1,0.32,2025-03-28,False,
+CUST-0076,Solus Works,Media & Entertainment,Growth,casual_adopter,2022-11-22,28.3,55622.44,4635.2,1,0,3.0,True,14,9,0.66,2025-03-20,False,
+CUST-0077,Pulse Studio,Education,Starter,casual_adopter,2021-09-16,42.5,13522.74,1126.89,14,3,4.3,True,6,3,0.42,2025-03-22,False,
+CUST-0078,Drift Solutions,E-Commerce / DTC,Starter,at_risk,2022-11-27,28.1,11124.0,927.0,11,12,1.4,False,6,2,0.39,2025-03-29,False,
+CUST-0079,Flux Partners,Professional Services,Enterprise,power_user,2024-07-09,8.7,183917.54,15326.46,15,2,6.0,False,145,80,0.58,2024-09-10,True,6.0
+CUST-0080,Drift HQ,Media & Entertainment,Growth,casual_adopter,2023-11-11,16.7,46113.38,3842.78,7,1,5.8,False,24,16,0.7,2025-03-17,False,
+CUST-0081,Echo Group,Financial Services,Scale,power_user,2024-05-07,10.8,178397.79,14866.48,31,0,10.0,True,31,26,1.0,2025-03-07,False,
+CUST-0082,Pulse IO,SaaS / Tech,Growth,power_user,2022-11-26,28.2,54055.61,4504.63,27,2,7.5,True,23,21,0.95,2025-03-24,False,
+CUST-0083,Bloom Partners,Financial Services,Starter,power_user,2023-01-27,26.1,8618.94,718.25,38,7,8.6,True,4,3,0.72,2025-03-20,False,
+CUST-0084,Prism Co,Financial Services,Scale,at_risk,2022-08-19,31.4,74561.7,6213.47,6,10,6.3,False,75,19,0.05,2025-03-23,False,
+CUST-0085,Forge Partners,Financial Services,Starter,power_user,2021-11-22,40.3,11667.98,972.33,26,0,8.6,True,7,5,0.69,2025-03-04,False,
+CUST-0086,Forge Co,SaaS / Tech,Scale,power_user,2024-04-05,11.9,93053.51,7754.46,36,0,5.6,True,70,50,0.84,2025-03-04,False,
+CUST-0087,Lumis Digital,Financial Services,Starter,casual_adopter,2021-07-02,45.0,12827.88,1068.99,2,2,7.6,True,7,3,0.42,2025-03-30,False,
+CUST-0088,Cove IO,Financial Services,Scale,silent_churner,2022-05-14,34.6,114093.2,9507.77,1,12,0.3,False,70,5,0.01,2025-03-08,False,
+CUST-0089,Bloom Group,Media & Entertainment,Starter,power_user,2022-11-16,28.5,14930.49,1244.21,24,0,10.0,True,3,2,0.62,2025-03-04,False,
+CUST-0090,Helix Works,Financial Services,Growth,casual_adopter,2022-09-27,30.1,56757.73,4729.81,6,5,6.1,True,21,13,0.72,2025-03-12,False,
+CUST-0091,Sable IO,SaaS / Tech,Enterprise,casual_adopter,2022-07-21,32.4,333666.95,27805.58,15,8,4.7,False,101,41,0.46,2024-03-03,False,
+CUST-0092,Solus Labs,Financial Services,Growth,silent_churner,2022-04-23,35.3,49384.16,4115.35,2,14,1.4,False,8,1,0.04,2025-01-13,False,
+CUST-0093,Bloom Group,Logistics,Growth,at_risk,2023-04-01,24.0,47183.39,3931.95,15,12,2.0,True,21,4,0.13,2025-03-10,False,
+CUST-0094,Vanta Co,SaaS / Tech,Scale,silent_churner,2022-06-29,33.1,77375.95,6448.0,3,22,0.9,False,74,4,0.01,2024-11-04,True,4.0
+CUST-0095,Forge Works,Professional Services,Starter,power_user,2023-08-06,19.8,15112.18,1259.35,33,6,9.7,True,6,4,0.6,2025-03-19,False,
+CUST-0096,Bloom Co,SaaS / Tech,Scale,casual_adopter,2023-04-04,23.9,95177.2,7931.43,16,3,6.9,True,62,45,0.53,2025-03-18,False,
+CUST-0097,Slate Group,Professional Services,Enterprise,casual_adopter,2022-10-03,29.9,414145.35,34512.11,1,2,6.8,True,105,75,0.79,2025-03-22,False,
+CUST-0098,Nexus Studio,SaaS / Tech,Starter,silent_churner,2023-07-18,20.5,11977.16,998.1,3,9,0.0,False,5,1,0.33,2024-09-24,False,
+CUST-0099,Cove Media,Education,Growth,silent_churner,2024-06-03,9.9,46120.73,3843.39,0,21,1.9,False,20,3,0.01,2024-12-25,False,
+CUST-0100,Lumis Inc,Education,Growth,power_user,2024-01-18,14.4,55380.29,4615.02,19,2,7.1,False,12,10,0.95,2025-03-14,False,
+CUST-0101,Flux Systems,Healthcare,Scale,power_user,2024-01-23,14.3,169622.54,14135.21,29,3,10.0,True,51,40,0.77,2025-03-21,False,
+CUST-0102,Solus HQ,Financial Services,Starter,power_user,2024-05-22,10.3,6631.93,552.66,31,2,8.9,True,8,7,1.0,2025-03-25,False,
+CUST-0103,Solus Solutions,Healthcare,Growth,power_user,2021-06-14,45.6,19342.69,1611.89,22,1,9.7,True,16,13,0.81,2025-03-31,False,
+CUST-0104,Zara Group,Healthcare,Scale,casual_adopter,2021-07-25,44.2,67266.12,5605.51,9,5,6.6,True,64,37,0.59,2025-03-06,False,
+CUST-0105,Prism Studio,Professional Services,Scale,at_risk,2023-11-13,16.6,165999.83,13833.32,1,19,7.1,False,63,15,0.28,2024-10-13,False,
+CUST-0106,Slate Ventures,Education,Starter,power_user,2022-09-22,30.3,14239.67,1186.64,43,0,7.0,True,2,1,0.42,2025-03-16,False,
+CUST-0107,Nova IO,Financial Services,Scale,power_user,2024-08-12,7.6,134186.85,11182.24,25,6,8.2,False,49,40,0.94,2025-03-29,False,
+CUST-0108,Drift Media,Financial Services,Starter,casual_adopter,2023-02-21,25.3,10667.38,888.95,9,3,5.3,False,8,3,0.27,2024-09-05,True,6.0
+CUST-0109,Nexus Labs,Healthcare,Scale,casual_adopter,2022-08-09,31.7,97499.38,8124.95,3,3,4.0,False,53,33,0.58,2025-03-08,False,
+CUST-0110,Faro Digital,Education,Growth,casual_adopter,2023-08-11,19.7,43205.01,3600.42,16,7,10.0,False,22,9,0.46,2025-03-20,False,
+CUST-0111,Zara Partners,E-Commerce / DTC,Starter,silent_churner,2021-11-07,40.8,17492.39,1457.7,5,18,0.0,False,4,1,0.2,2024-12-18,True,2.0
+CUST-0112,Cove Systems,Media & Entertainment,Scale,at_risk,2024-08-01,8.0,160189.83,13349.15,0,14,2.4,False,71,20,0.36,2024-08-01,True,8.0
+CUST-0113,Wren Group,Professional Services,Scale,casual_adopter,2022-05-18,34.5,133073.78,11089.48,15,7,7.6,False,47,18,0.52,2023-10-06,True,17.0
+CUST-0114,Orbit Studio,Financial Services,Scale,at_risk,2022-03-24,36.3,97953.54,8162.79,8,14,2.2,False,43,11,0.36,2024-05-05,False,
+CUST-0115,Vanta HQ,SaaS / Tech,Enterprise,at_risk,2021-08-07,43.8,578479.18,48206.6,6,16,6.0,False,165,46,0.09,2025-03-30,False,
+CUST-0116,Prism Partners,SaaS / Tech,Starter,power_user,2021-07-26,44.2,14733.2,1227.77,28,1,6.8,True,5,3,0.61,2025-03-21,False,
+CUST-0117,Helix HQ,Media & Entertainment,Starter,silent_churner,2022-01-16,38.5,11637.62,969.8,4,10,4.0,False,6,1,0.27,2024-11-07,True,4.0
+CUST-0118,Pulse Systems,Financial Services,Starter,at_risk,2022-01-05,38.8,7997.64,666.47,5,10,4.3,False,6,2,0.2,2024-09-09,True,6.0
+CUST-0119,Tide Systems,Logistics,Growth,silent_churner,2022-04-28,35.1,58586.92,4882.24,5,14,0.0,False,20,2,0.17,2025-03-07,False,
+CUST-0120,Apex Labs,Logistics,Growth,at_risk,2023-05-08,22.8,22901.63,1908.47,12,7,3.5,True,18,7,0.46,2025-03-04,False,
+CUST-0121,Nova HQ,Media & Entertainment,Growth,casual_adopter,2022-03-18,36.5,58063.49,4838.62,12,7,9.0,True,8,3,0.26,2025-03-20,False,
+CUST-0122,Ridge Ventures,Media & Entertainment,Growth,casual_adopter,2021-07-29,44.1,24889.08,2074.09,14,1,7.9,False,23,11,0.56,2025-03-05,False,
+CUST-0123,Cove IO,Professional Services,Starter,power_user,2021-08-03,43.9,15622.18,1301.85,33,2,7.9,True,5,4,0.83,2025-03-06,False,
+CUST-0124,Cedar IO,Media & Entertainment,Starter,at_risk,2021-08-25,43.2,11723.55,976.96,5,10,6.6,False,5,1,0.27,2025-03-27,False,
+CUST-0125,Apex Co,Education,Growth,power_user,2022-03-11,36.7,50679.92,4223.33,23,3,10.0,True,17,14,0.72,2025-03-20,False,
+CUST-0126,Prism Systems,Financial Services,Starter,power_user,2021-08-27,43.1,11433.07,952.76,38,4,9.1,True,3,2,0.69,2025-03-09,False,
+CUST-0127,Zara Systems,Financial Services,Growth,power_user,2021-10-17,41.5,29423.19,2451.93,29,0,8.2,True,25,19,0.59,2025-03-25,False,
+CUST-0128,Helix IO,E-Commerce / DTC,Enterprise,power_user,2021-09-04,42.9,497003.31,41416.94,38,5,7.9,True,152,150,0.76,2025-03-14,False,
+CUST-0129,Vanta Ventures,Media & Entertainment,Starter,casual_adopter,2021-10-13,41.6,10006.63,833.89,20,7,5.1,True,8,4,0.51,2025-03-17,False,
+CUST-0130,Peak Group,Financial Services,Growth,power_user,2023-06-15,21.6,29756.1,2479.67,41,0,9.4,True,12,8,0.78,2025-03-05,False,
+CUST-0131,Crest Labs,E-Commerce / DTC,Growth,power_user,2022-07-14,32.6,44117.59,3676.47,23,1,7.7,True,21,16,0.79,2025-03-04,False,
+CUST-0132,Zara Partners,Healthcare,Growth,power_user,2024-05-29,10.1,45339.77,3778.31,22,0,8.3,True,20,18,0.89,2025-03-06,False,
+CUST-0133,Peak Systems,Healthcare,Growth,power_user,2021-10-14,41.6,51681.28,4306.77,29,1,10.0,True,15,12,0.78,2025-03-11,False,
+CUST-0134,Flux Solutions,Logistics,Enterprise,casual_adopter,2023-07-27,20.2,431959.2,35996.6,12,3,6.0,False,97,40,0.32,2024-04-07,True,11.0
+CUST-0135,Echo Systems,Financial Services,Growth,power_user,2022-01-06,38.8,54521.44,4543.45,21,0,8.8,False,18,13,0.7,2025-03-04,False,
+CUST-0136,Sable IO,Education,Scale,silent_churner,2022-10-18,29.4,147085.13,12257.09,0,12,2.3,False,45,2,0.08,2024-08-27,True,6.0
+CUST-0137,Orbit Digital,Education,Scale,at_risk,2022-07-27,32.2,61860.07,5155.01,12,11,7.3,False,63,22,0.31,2025-03-29,False,
+CUST-0138,Sable Inc,Professional Services,Growth,power_user,2022-07-22,32.3,24347.06,2028.92,32,3,10.0,True,15,14,1.0,2025-03-21,False,
+CUST-0139,Apex Ventures,Healthcare,Enterprise,power_user,2022-01-16,38.5,529702.49,44141.87,33,2,7.5,True,158,121,0.79,2025-03-16,False,
+CUST-0140,Crest Group,Education,Growth,casual_adopter,2021-08-09,43.7,42556.07,3546.34,17,3,8.1,True,14,7,0.53,2025-03-04,False,
+CUST-0141,Cedar Inc,Financial Services,Growth,casual_adopter,2021-08-10,43.7,59008.28,4917.36,8,0,7.3,True,21,10,0.57,2025-03-08,False,
+CUST-0142,Echo Solutions,Professional Services,Scale,power_user,2021-11-27,40.1,89533.32,7461.11,25,2,10.0,True,25,21,0.79,2025-03-06,False,
+CUST-0143,Pulse Labs,Media & Entertainment,Growth,silent_churner,2023-01-10,26.7,34268.98,2855.75,0,19,0.5,False,8,1,0.19,2024-12-05,True,3.0
+CUST-0144,Echo Studio,Media & Entertainment,Scale,silent_churner,2024-02-03,13.9,105143.99,8762.0,1,10,0.6,False,28,5,0.14,2024-02-03,False,
+CUST-0145,Zara Partners,Education,Starter,casual_adopter,2021-12-22,39.3,15257.35,1271.45,9,1,6.5,True,4,2,0.53,2025-03-16,False,
+CUST-0146,Solus Solutions,Professional Services,Enterprise,casual_adopter,2022-02-27,37.1,278428.38,23202.37,7,3,8.0,True,219,139,0.57,2025-03-14,False,
+CUST-0147,Sable Co,E-Commerce / DTC,Growth,power_user,2021-12-18,39.4,36953.32,3079.44,33,0,6.3,True,23,20,0.78,2025-03-30,False,
+CUST-0148,Peak Co,Logistics,Starter,power_user,2022-07-25,32.2,14262.65,1188.55,23,2,10.0,False,4,3,0.76,2025-03-30,False,
+CUST-0149,Pulse Digital,Logistics,Growth,casual_adopter,2023-01-25,26.2,31504.09,2625.34,11,0,4.5,True,25,11,0.25,2025-03-30,False,
+CUST-0150,Cedar Group,Professional Services,Scale,power_user,2023-03-16,24.5,92162.76,7680.23,33,3,7.7,True,74,53,0.69,2025-03-17,False,
+CUST-0151,Prism Studio,Logistics,Scale,silent_churner,2023-04-21,23.4,78873.65,6572.8,15,17,4.0,False,44,9,0.04,2024-11-27,True,3.0
+CUST-0152,Vanta Ventures,Professional Services,Growth,power_user,2023-10-16,17.5,56665.04,4722.09,37,1,8.3,True,25,20,0.88,2025-03-08,False,
+CUST-0153,Dune Inc,Media & Entertainment,Growth,power_user,2022-11-17,28.4,50059.61,4171.63,22,1,7.8,False,21,13,0.73,2023-02-12,True,25.0
+CUST-0154,Apex Digital,Financial Services,Growth,silent_churner,2021-07-13,44.6,50889.79,4240.82,3,21,0.8,False,24,4,0.08,2025-03-13,False,
+CUST-0155,Pulse IO,Education,Enterprise,casual_adopter,2023-05-20,22.4,301179.01,25098.25,10,1,8.8,True,207,107,0.56,2025-03-26,False,
+CUST-0156,Drift Works,SaaS / Tech,Starter,power_user,2022-11-08,28.7,7688.04,640.67,23,0,8.7,True,7,5,0.8,2025-03-20,False,
+CUST-0157,Echo Systems,Healthcare,Scale,casual_adopter,2022-12-31,27.0,166873.5,13906.12,11,2,5.0,True,68,39,0.66,2025-03-19,False,
+CUST-0158,Vanta IO,Education,Scale,power_user,2021-09-08,42.7,179140.28,14928.36,31,6,8.6,False,52,50,0.98,2025-03-20,False,
+CUST-0159,Zara Group,Professional Services,Starter,casual_adopter,2023-06-24,21.3,7763.99,647.0,9,3,8.4,True,5,2,0.47,2025-03-04,False,
+CUST-0160,Bloom Group,Media & Entertainment,Growth,silent_churner,2023-03-20,24.4,58965.55,4913.8,0,23,0.0,False,22,4,0.12,2024-06-14,False,
+CUST-0161,Apex HQ,Media & Entertainment,Growth,silent_churner,2024-03-28,12.1,51484.91,4290.41,0,25,3.3,False,19,2,0.12,2024-10-04,True,5.0
+CUST-0162,Ridge Partners,SaaS / Tech,Scale,at_risk,2024-02-01,14.0,125741.77,10478.48,13,14,5.3,False,27,5,0.14,2025-03-11,False,
+CUST-0163,Pulse Inc,SaaS / Tech,Enterprise,power_user,2023-01-11,26.6,506358.96,42196.58,36,0,7.7,True,227,187,0.75,2025-03-17,False,
+CUST-0164,Apex Group,Professional Services,Enterprise,casual_adopter,2021-08-03,43.9,389989.9,32499.16,6,4,7.6,True,248,179,0.72,2025-03-14,False,
+CUST-0165,Kova Partners,Healthcare,Growth,power_user,2023-09-24,18.2,40451.41,3370.95,29,0,8.2,True,19,16,0.87,2025-03-17,False,
+CUST-0166,Echo HQ,E-Commerce / DTC,Starter,at_risk,2021-08-03,43.9,12479.77,1039.98,0,11,3.2,False,5,1,0.32,2024-11-30,True,3.0
+CUST-0167,Orbit Studio,Media & Entertainment,Growth,casual_adopter,2023-11-11,16.7,38360.02,3196.67,16,10,7.5,True,8,3,0.41,2025-03-11,False,
+CUST-0168,Vanta Partners,Logistics,Growth,at_risk,2024-04-28,11.1,34032.99,2836.08,8,17,5.6,False,10,1,0.16,2024-04-29,True,11.0
+CUST-0169,Solus Works,Logistics,Growth,casual_adopter,2021-12-19,39.4,51082.99,4256.92,16,6,9.2,True,24,16,0.74,2025-03-27,False,
+CUST-0170,Vanta IO,Healthcare,Starter,power_user,2023-05-12,22.7,14666.29,1222.19,39,0,8.3,True,3,2,0.94,2025-03-25,False,
+CUST-0171,Nova Solutions,Media & Entertainment,Growth,at_risk,2024-01-17,14.5,59255.61,4937.97,0,7,0.9,False,11,2,0.01,2025-03-27,False,
+CUST-0172,Slate Solutions,Logistics,Enterprise,silent_churner,2021-09-07,42.8,309977.56,25831.46,7,18,1.7,False,179,17,0.02,2024-07-13,True,8.0
+CUST-0173,Solus Works,E-Commerce / DTC,Enterprise,silent_churner,2024-06-06,9.8,204175.49,17014.62,0,19,2.1,False,170,28,0.31,2024-12-23,True,2.0
+CUST-0174,Faro HQ,Healthcare,Enterprise,at_risk,2024-08-03,7.9,346108.29,28842.36,0,11,7.3,False,203,54,0.23,2024-09-20,False,
+CUST-0175,Lumis Inc,Financial Services,Enterprise,at_risk,2022-08-18,31.4,477502.52,39791.88,6,11,2.6,False,177,65,0.46,2025-01-15,True,2.0
+CUST-0176,Cove Studio,Healthcare,Enterprise,at_risk,2021-12-04,39.9,568919.58,47409.96,11,11,3.7,True,241,67,0.3,2024-09-14,True,6.0
+CUST-0177,Flux Systems,Logistics,Starter,power_user,2024-08-20,7.4,13036.66,1086.39,33,0,7.1,True,6,5,1.0,2025-03-18,False,
+CUST-0178,Zara Co,Media & Entertainment,Enterprise,casual_adopter,2023-01-10,26.7,183935.24,15327.94,5,6,7.5,True,221,162,0.62,2025-03-27,False,
+CUST-0179,Lumis IO,SaaS / Tech,Starter,casual_adopter,2022-05-15,34.6,10619.69,884.97,6,4,6.6,True,3,1,0.45,2025-03-04,False,
+CUST-0180,Lumis Studio,Professional Services,Growth,power_user,2023-11-11,16.7,40703.6,3391.97,23,5,7.2,False,14,12,1.0,2025-03-09,False,
+CUST-0181,Sable Systems,Logistics,Growth,power_user,2021-06-03,45.9,40518.38,3376.53,18,2,10.0,False,21,18,0.76,2025-03-30,False,
+CUST-0182,Lumis Group,Healthcare,Enterprise,power_user,2024-05-08,10.8,329144.15,27428.68,31,2,8.3,True,199,173,0.95,2025-03-11,False,
+CUST-0183,Helix Group,SaaS / Tech,Growth,power_user,2022-07-19,32.4,20630.51,1719.21,44,0,8.7,True,20,17,0.75,2025-03-14,False,
+CUST-0184,Drift Ventures,Professional Services,Growth,at_risk,2023-01-12,26.6,34723.83,2893.65,10,13,5.6,False,22,7,0.32,2024-09-08,True,6.0
+CUST-0185,Pulse Co,Education,Growth,silent_churner,2021-09-19,42.4,39883.66,3323.64,0,16,5.1,False,18,1,0.03,2024-12-01,False,
+CUST-0186,Dune IO,SaaS / Tech,Enterprise,casual_adopter,2021-06-09,45.7,289007.44,24083.95,14,2,7.1,True,210,118,0.32,2025-03-15,False,
+CUST-0187,Dune Labs,Logistics,Scale,silent_churner,2023-05-14,22.6,159999.36,13333.28,1,15,1.1,False,72,4,0.1,2024-09-21,False,
+CUST-0188,Vanta IO,Media & Entertainment,Starter,silent_churner,2024-03-02,13.0,9851.91,820.99,9,18,5.0,False,8,1,0.13,2025-03-28,False,
+CUST-0189,Solus Partners,SaaS / Tech,Starter,silent_churner,2021-12-13,39.6,12074.02,1006.17,4,9,1.2,False,2,1,0.65,2024-12-19,True,2.0
+CUST-0190,Nova Media,E-Commerce / DTC,Growth,casual_adopter,2024-03-03,12.9,26478.52,2206.54,13,0,7.4,True,13,8,0.68,2025-03-18,False,
+CUST-0191,Crest HQ,Media & Entertainment,Starter,power_user,2022-06-13,33.6,8552.32,712.69,18,7,9.1,True,4,3,0.98,2025-03-09,False,
+CUST-0192,Nova Group,Logistics,Growth,power_user,2024-03-09,12.7,21871.91,1822.66,41,0,9.0,True,18,16,0.9,2025-03-18,False,
+CUST-0193,Apex Media,Education,Starter,power_user,2023-05-13,22.6,15670.38,1305.87,26,2,9.6,True,4,3,0.74,2025-03-21,False,
+CUST-0194,Crest HQ,Professional Services,Growth,power_user,2024-04-21,11.3,30171.45,2514.29,25,0,9.7,True,10,9,0.88,2025-03-19,False,
+CUST-0195,Nova Solutions,SaaS / Tech,Enterprise,at_risk,2022-11-16,28.5,422703.73,35225.31,0,17,4.6,False,154,45,0.25,2024-05-01,True,10.0
+CUST-0196,Nova Labs,Education,Scale,silent_churner,2024-08-27,7.1,103066.87,8588.91,5,12,3.4,False,57,12,0.01,2024-10-14,True,5.0
+CUST-0197,Prism IO,Professional Services,Starter,silent_churner,2022-04-22,35.3,15355.66,1279.64,0,15,0.8,False,3,1,0.31,2024-10-05,False,
+CUST-0198,Ridge Works,Media & Entertainment,Starter,casual_adopter,2023-01-03,26.9,16283.41,1356.95,17,4,8.0,True,2,1,0.29,2025-03-09,False,
+CUST-0199,Flux Co,Financial Services,Growth,at_risk,2022-08-14,31.6,28344.8,2362.07,4,13,1.3,False,17,7,0.46,2024-09-09,True,6.0
+CUST-0200,Orbit Labs,Media & Entertainment,Growth,at_risk,2022-09-18,30.4,56749.96,4729.16,7,11,5.8,False,18,7,0.27,2024-12-26,True,2.0
+CUST-0201,Slate Group,SaaS / Tech,Growth,power_user,2024-03-17,12.5,38717.28,3226.44,40,3,8.6,True,24,22,0.83,2025-03-25,False,
+CUST-0202,Forge Partners,Financial Services,Starter,at_risk,2022-05-06,34.9,16396.46,1366.37,6,7,4.3,False,5,1,0.13,2025-03-08,False,
+CUST-0203,Zara Solutions,Logistics,Growth,silent_churner,2022-01-12,38.6,33610.07,2800.84,2,23,2.4,False,13,3,0.21,2023-11-26,True,15.0
+CUST-0204,Helix Inc,E-Commerce / DTC,Starter,at_risk,2021-11-13,40.6,11561.21,963.43,8,12,4.5,True,6,2,0.33,2025-03-30,False,
+CUST-0205,Pulse Partners,SaaS / Tech,Scale,at_risk,2024-03-01,13.0,69808.73,5817.39,6,8,5.4,False,43,9,0.32,2024-08-26,True,6.0
+CUST-0206,Flux HQ,Professional Services,Scale,casual_adopter,2024-07-24,8.2,97894.74,8157.9,16,3,5.3,False,57,42,0.68,2025-03-10,False,
+CUST-0207,Tide Works,Professional Services,Growth,power_user,2022-01-01,39.0,19275.07,1606.26,23,0,8.4,True,14,13,0.98,2025-03-05,False,
+CUST-0208,Slate IO,Logistics,Scale,at_risk,2023-03-31,24.0,93665.77,7805.48,0,15,4.4,False,57,18,0.59,2025-03-20,False,
+CUST-0209,Forge Co,Financial Services,Growth,casual_adopter,2023-05-30,22.1,43499.74,3624.98,20,2,7.8,True,14,10,0.75,2025-03-26,False,
+CUST-0210,Apex Co,Media & Entertainment,Growth,at_risk,2021-12-12,39.6,21951.56,1829.3,15,10,3.2,True,21,7,0.31,2025-03-22,False,
+CUST-0211,Drift Co,E-Commerce / DTC,Growth,silent_churner,2023-08-31,19.0,26595.04,2216.25,5,14,0.4,False,13,3,0.15,2025-03-18,False,
+CUST-0212,Nexus HQ,Financial Services,Growth,casual_adopter,2023-08-18,19.4,54572.36,4547.7,9,6,6.4,False,9,3,0.31,2024-11-04,False,
+CUST-0213,Peak Digital,Education,Enterprise,casual_adopter,2021-11-24,40.2,417499.23,34791.6,8,13,6.9,False,236,101,0.34,2024-02-27,True,12.0
+CUST-0214,Sable Group,Education,Scale,silent_churner,2023-10-13,17.6,130405.32,10867.11,4,20,2.4,False,61,3,0.08,2024-06-11,False,
+CUST-0215,Prism Works,SaaS / Tech,Scale,at_risk,2021-07-22,44.3,85629.97,7135.83,8,11,5.1,True,63,14,0.23,2025-03-23,False,
+CUST-0216,Sable Systems,Media & Entertainment,Starter,power_user,2023-07-02,21.0,17105.94,1425.49,30,2,8.6,True,2,1,0.28,2025-03-10,False,
+CUST-0217,Pulse Systems,Media & Entertainment,Growth,power_user,2022-07-28,32.1,29752.63,2479.39,24,0,8.4,True,19,18,0.95,2025-03-16,False,
+CUST-0218,Cove HQ,Professional Services,Growth,power_user,2023-02-11,25.6,22078.53,1839.88,19,3,4.0,False,9,4,0.55,2023-11-22,False,
+CUST-0219,Orbit Inc,Media & Entertainment,Starter,silent_churner,2022-11-22,28.3,11362.34,946.86,0,10,1.9,False,7,1,0.1,2025-03-11,False,
+CUST-0220,Ridge IO,Education,Growth,at_risk,2023-10-25,17.2,42911.05,3575.92,9,12,5.1,False,21,5,0.17,2024-05-28,False,
+CUST-0221,Lumis Works,Professional Services,Starter,power_user,2024-06-21,9.3,13304.67,1108.72,38,2,7.3,True,2,1,0.36,2025-03-22,False,
+CUST-0222,Bloom IO,Healthcare,Starter,silent_churner,2024-03-23,12.3,7570.85,630.9,0,18,0.9,False,8,1,0.01,2025-01-03,True,2.0
+CUST-0223,Lumis Works,SaaS / Tech,Scale,silent_churner,2022-05-17,34.5,161249.6,13437.47,0,14,0.0,False,25,4,0.24,2024-10-19,True,4.0
+CUST-0224,Nexus Solutions,Logistics,Scale,at_risk,2023-07-17,20.5,100661.18,8388.43,3,9,6.7,False,44,11,0.23,2024-04-26,True,10.0
+CUST-0225,Kova Inc,Education,Scale,casual_adopter,2022-09-22,30.3,179353.72,14946.14,10,0,5.8,False,70,30,0.51,2023-04-22,True,22.0
+CUST-0226,Echo HQ,Financial Services,Starter,casual_adopter,2023-12-31,15.0,10538.42,878.2,12,2,6.3,False,7,2,0.44,2024-06-22,True,8.0
+CUST-0227,Vanta Ventures,Financial Services,Starter,power_user,2022-02-15,37.5,6330.23,527.52,17,2,6.7,True,6,4,0.76,2025-03-29,False,
+CUST-0228,Echo Ventures,Healthcare,Starter,power_user,2024-05-24,10.2,6417.72,534.81,35,2,6.9,False,2,1,0.45,2025-03-22,False,
+CUST-0229,Prism Inc,Education,Starter,silent_churner,2021-08-09,43.7,10435.6,869.63,2,15,0.0,False,4,1,0.26,2024-06-11,False,
+CUST-0230,Prism Inc,Media & Entertainment,Starter,at_risk,2023-05-15,22.6,14466.84,1205.57,9,6,0.9,False,5,1,0.14,2024-08-18,False,
+CUST-0231,Helix Co,E-Commerce / DTC,Enterprise,casual_adopter,2023-04-01,24.0,384470.9,32039.24,7,3,3.8,True,100,71,0.64,2025-03-27,False,
+CUST-0232,Cove Inc,Professional Services,Scale,silent_churner,2024-05-04,10.9,161472.67,13456.06,0,17,4.6,False,62,2,0.06,2025-03-20,False,
+CUST-0233,Drift Group,Financial Services,Starter,casual_adopter,2022-04-15,35.5,16737.62,1394.8,13,1,6.5,True,2,1,0.42,2025-03-26,False,
+CUST-0234,Flux Co,Professional Services,Starter,silent_churner,2023-12-10,15.7,16355.64,1362.97,6,20,0.3,False,7,1,0.01,2025-01-06,True,2.0
+CUST-0235,Dune Works,E-Commerce / DTC,Enterprise,silent_churner,2024-07-09,8.7,448733.67,37394.47,0,22,4.4,False,82,13,0.07,2024-11-26,False,
+CUST-0236,Nexus Studio,Professional Services,Growth,power_user,2023-03-25,24.2,56730.5,4727.54,22,1,6.8,False,14,6,0.4,2023-12-04,True,15.0
+CUST-0237,Slate Media,Education,Growth,power_user,2022-05-14,34.6,47667.81,3972.32,23,1,9.9,True,13,11,1.0,2025-03-05,False,
+CUST-0238,Nova Studio,Education,Growth,casual_adopter,2024-01-05,14.8,21778.2,1814.85,7,4,8.8,False,23,9,0.34,2024-09-03,True,6.0
+CUST-0239,Flux Solutions,SaaS / Tech,Starter,power_user,2023-11-16,16.5,9824.53,818.71,29,3,5.5,True,8,7,0.93,2025-03-06,False,
+CUST-0240,Ridge Works,Professional Services,Growth,at_risk,2022-11-09,28.7,27794.73,2316.23,9,9,4.6,True,25,11,0.42,2025-03-24,False,
+CUST-0241,Drift Studio,E-Commerce / DTC,Scale,power_user,2024-08-30,7.0,70773.99,5897.83,18,0,8.7,True,61,48,0.91,2025-03-05,False,
+CUST-0242,Apex Solutions,Media & Entertainment,Growth,casual_adopter,2022-09-17,30.5,56677.21,4723.1,12,4,7.2,False,16,6,0.5,2025-03-26,False,
+CUST-0243,Sable Media,Financial Services,Scale,power_user,2022-02-14,37.5,120780.12,10065.01,24,0,9.5,True,66,50,0.88,2025-03-17,False,
+CUST-0244,Cove Partners,Logistics,Starter,silent_churner,2023-04-16,23.5,8192.04,682.67,8,13,0.9,False,6,1,0.01,2025-03-27,False,
+CUST-0245,Orbit Inc,Professional Services,Growth,casual_adopter,2024-01-03,14.9,53687.17,4473.93,4,4,5.1,False,24,10,0.44,2024-11-01,True,4.0
+CUST-0246,Tide Group,SaaS / Tech,Enterprise,casual_adopter,2022-10-01,30.0,335782.66,27981.89,13,11,7.8,False,111,79,0.79,2025-03-29,False,
+CUST-0247,Peak IO,Healthcare,Starter,at_risk,2024-04-05,11.9,8821.54,735.13,5,9,3.2,True,6,1,0.21,2025-03-06,False,
+CUST-0248,Ridge IO,E-Commerce / DTC,Growth,silent_churner,2022-06-28,33.1,48269.88,4022.49,5,18,0.0,False,14,1,0.13,2024-12-13,False,
+CUST-0249,Sable HQ,Healthcare,Growth,casual_adopter,2022-11-30,28.0,25229.21,2102.43,14,5,7.7,True,21,9,0.44,2025-03-10,False,
+CUST-0250,Cove Studio,Education,Growth,silent_churner,2023-02-08,25.7,57551.97,4796.0,1,17,3.8,False,11,2,0.11,2024-12-17,True,2.0
+CUST-0251,Solus Systems,E-Commerce / DTC,Enterprise,casual_adopter,2022-04-13,35.6,575290.31,47940.86,11,0,6.2,False,112,48,0.26,2025-03-18,False,
+CUST-0252,Kova Labs,Education,Growth,casual_adopter,2022-04-16,35.5,20489.62,1707.47,19,0,4.9,True,13,9,0.63,2025-03-04,False,
+CUST-0253,Kova Labs,Logistics,Growth,casual_adopter,2022-10-21,29.3,41219.07,3434.92,17,6,5.2,False,24,10,0.69,2024-12-20,True,2.0
+CUST-0254,Apex Ventures,Healthcare,Enterprise,power_user,2023-03-31,24.0,191670.12,15972.51,36,0,9.0,True,205,172,0.79,2025-03-08,False,
+CUST-0255,Flux Studio,SaaS / Tech,Starter,casual_adopter,2024-05-05,10.9,17029.32,1419.11,6,5,10.0,True,2,1,0.3,2025-03-29,False,
+CUST-0256,Tide Solutions,SaaS / Tech,Scale,power_user,2023-05-15,22.6,90948.39,7579.03,24,2,7.9,False,26,17,0.72,2023-05-15,False,
+CUST-0257,Sable Labs,Professional Services,Starter,power_user,2022-04-26,35.2,12160.01,1013.33,9,0,5.9,False,2,1,0.59,2022-09-18,True,29.0
+CUST-0258,Dune Group,Professional Services,Growth,at_risk,2022-09-27,30.1,49061.97,4088.5,12,10,6.4,False,10,2,0.33,2023-09-25,True,17.0
+CUST-0259,Slate Systems,Financial Services,Growth,power_user,2023-04-03,23.9,49989.29,4165.77,26,1,9.6,True,13,11,0.9,2025-03-28,False,
+CUST-0260,Slate IO,SaaS / Tech,Growth,casual_adopter,2022-06-23,33.3,38303.85,3191.99,16,5,7.3,True,24,9,0.46,2025-03-11,False,
+CUST-0261,Nexus Ventures,Education,Starter,at_risk,2022-11-12,28.6,7212.68,601.06,1,12,4.4,False,5,1,0.38,2025-03-29,False,
+CUST-0262,Cove Media,Logistics,Growth,casual_adopter,2021-12-26,39.2,31342.67,2611.89,8,1,7.6,True,22,13,0.52,2025-03-29,False,
+CUST-0263,Orbit Digital,E-Commerce / DTC,Growth,casual_adopter,2022-05-04,34.9,18242.66,1520.22,21,2,5.1,True,21,13,0.53,2025-03-19,False,
+CUST-0264,Lumis HQ,E-Commerce / DTC,Enterprise,casual_adopter,2021-12-26,39.2,263559.71,21963.31,13,2,5.5,True,90,64,0.6,2025-03-07,False,
+CUST-0265,Sable Labs,SaaS / Tech,Enterprise,casual_adopter,2022-07-06,32.9,494253.81,41187.82,16,1,6.5,False,241,163,0.65,2025-03-29,False,
+CUST-0266,Vanta HQ,SaaS / Tech,Growth,at_risk,2023-07-27,20.2,42771.0,3564.25,7,16,2.6,False,8,1,0.26,2024-08-25,True,6.0
+CUST-0267,Orbit Partners,Logistics,Enterprise,power_user,2022-04-06,35.8,365337.66,30444.8,22,0,10.0,True,250,186,0.79,2025-03-22,False,
+CUST-0268,Nova IO,SaaS / Tech,Scale,casual_adopter,2022-03-31,36.0,138301.85,11525.15,6,11,4.1,False,74,31,0.47,2024-08-25,True,6.0
+CUST-0269,Bloom Digital,Professional Services,Growth,power_user,2023-02-09,25.7,37770.47,3147.54,27,0,7.6,True,18,15,0.65,2025-03-15,False,
+CUST-0270,Slate Labs,Financial Services,Starter,power_user,2023-01-31,26.0,10460.26,871.69,22,0,7.9,True,3,2,0.6,2025-03-23,False,
+CUST-0271,Solus Co,Education,Growth,at_risk,2023-11-08,16.8,34382.02,2865.17,7,15,4.4,False,15,3,0.02,2024-10-16,False,
+CUST-0272,Orbit Studio,Healthcare,Growth,casual_adopter,2022-12-13,27.6,33749.29,2812.44,21,0,3.9,False,19,14,0.86,2025-03-25,False,
+CUST-0273,Dune Co,E-Commerce / DTC,Starter,casual_adopter,2022-07-07,32.8,10555.75,879.65,17,0,2.4,True,4,2,0.66,2025-03-04,False,
+CUST-0274,Lumis Co,Professional Services,Enterprise,at_risk,2022-01-10,38.7,365381.63,30448.47,6,11,3.0,True,118,25,0.29,2025-03-27,False,
+CUST-0275,Solus IO,Healthcare,Enterprise,silent_churner,2022-01-05,38.8,519172.7,43264.39,10,14,2.3,False,83,14,0.07,2024-06-14,True,9.0
+CUST-0276,Ridge IO,Healthcare,Growth,casual_adopter,2022-12-28,27.1,56400.54,4700.05,11,0,6.9,False,16,6,0.53,2024-05-03,True,10.0
+CUST-0277,Forge Group,Logistics,Growth,at_risk,2022-07-28,32.1,55471.13,4622.59,5,13,7.6,False,11,2,0.15,2024-06-25,False,
+CUST-0278,Crest HQ,Media & Entertainment,Scale,casual_adopter,2023-08-05,19.9,116147.79,9678.98,16,5,4.2,False,62,43,0.57,2025-03-04,False,
+CUST-0279,Helix Media,Healthcare,Enterprise,casual_adopter,2024-01-07,14.8,563286.47,46940.54,23,4,5.4,True,91,51,0.46,2025-03-17,False,
+CUST-0280,Faro Group,Financial Services,Growth,at_risk,2021-08-09,43.7,51551.67,4295.97,17,4,4.9,False,19,5,0.22,2025-03-26,False,
+CUST-0281,Flux Digital,Media & Entertainment,Growth,casual_adopter,2021-06-26,45.2,24592.16,2049.35,14,0,8.1,True,14,5,0.36,2025-03-05,False,
+CUST-0282,Wren Ventures,E-Commerce / DTC,Starter,casual_adopter,2023-08-27,19.2,15994.03,1332.84,11,1,6.5,False,5,3,0.58,2025-03-18,False,
+CUST-0283,Faro Ventures,Education,Starter,casual_adopter,2023-11-12,16.6,6933.44,577.79,7,4,6.2,False,6,2,0.19,2025-03-31,False,
+CUST-0284,Peak Ventures,SaaS / Tech,Growth,silent_churner,2022-08-30,31.0,43983.45,3665.29,3,14,3.2,False,20,1,0.17,2024-06-10,True,9.0
+CUST-0285,Tide Studio,Media & Entertainment,Starter,at_risk,2024-03-21,12.4,10477.15,873.1,0,20,5.3,False,2,1,0.48,2024-06-06,True,9.0
+CUST-0286,Pulse Studio,SaaS / Tech,Starter,silent_churner,2023-01-28,26.1,14989.06,1249.09,0,15,1.8,False,2,1,0.43,2024-12-25,False,
+CUST-0287,Cedar Studio,Media & Entertainment,Growth,silent_churner,2024-01-05,14.8,50689.24,4224.1,6,22,4.4,False,15,1,0.18,2024-12-30,False,
+CUST-0288,Nexus Studio,Logistics,Scale,power_user,2021-07-16,44.5,174954.47,14579.54,23,2,10.0,True,50,45,0.78,2025-03-12,False,
+CUST-0289,Flux Studio,Financial Services,Starter,casual_adopter,2022-03-18,36.5,17111.28,1425.94,0,2,6.2,True,6,3,0.34,2025-03-23,False,
+CUST-0290,Lumis IO,Logistics,Scale,silent_churner,2022-11-09,28.7,106209.5,8850.79,2,13,3.2,False,73,5,0.2,2024-04-28,False,
+CUST-0291,Vanta Labs,Healthcare,Scale,silent_churner,2023-09-07,18.8,62608.34,5217.36,4,17,2.5,False,27,6,0.41,2024-05-22,True,9.0
+CUST-0292,Vanta Group,Media & Entertainment,Growth,power_user,2021-06-12,45.6,21156.47,1763.04,26,0,8.2,True,22,17,0.72,2025-03-27,False,
+CUST-0293,Crest Studio,Education,Scale,power_user,2022-10-10,29.7,176677.35,14723.11,27,4,7.3,True,28,25,0.89,2025-03-18,False,
+CUST-0294,Cedar Group,SaaS / Tech,Starter,casual_adopter,2023-10-29,17.1,9870.79,822.57,17,8,5.0,False,6,2,0.22,2024-07-09,True,8.0
+CUST-0295,Slate Co,Education,Starter,power_user,2024-08-19,7.4,8806.58,733.88,28,0,7.4,True,3,2,0.67,2025-03-10,False,
+CUST-0296,Prism Studio,E-Commerce / DTC,Enterprise,power_user,2023-10-11,17.7,228556.36,19046.36,25,0,9.1,True,138,129,0.88,2025-03-14,False,
+CUST-0297,Vanta Digital,Healthcare,Enterprise,power_user,2022-09-12,30.6,333733.47,27811.12,22,3,9.9,True,132,113,0.85,2025-03-16,False,
+CUST-0298,Zara Group,Education,Starter,at_risk,2022-09-12,30.6,9983.75,831.98,9,11,4.0,False,2,1,0.54,2025-03-23,False,
+CUST-0299,Echo Ventures,Media & Entertainment,Scale,at_risk,2022-06-07,33.8,148327.54,12360.63,4,6,5.9,False,35,13,0.26,2024-09-05,False,
+CUST-0300,Peak Partners,E-Commerce / DTC,Starter,silent_churner,2022-02-10,37.6,8162.88,680.24,0,20,1.0,False,6,1,0.13,2025-01-10,True,2.0
+CUST-0301,Helix Inc,E-Commerce / DTC,Starter,power_user,2023-12-17,15.5,11416.53,951.38,36,0,9.4,True,8,7,0.7,2025-03-23,False,
+CUST-0302,Peak Inc,Media & Entertainment,Starter,at_risk,2023-11-03,16.9,16671.8,1389.32,8,6,2.8,False,3,1,0.29,2024-08-21,True,6.0
+CUST-0303,Kova Systems,SaaS / Tech,Growth,at_risk,2023-03-04,24.9,36436.78,3036.4,7,19,5.4,False,18,4,0.21,2024-04-30,True,10.0
+CUST-0304,Vanta Systems,Logistics,Growth,power_user,2022-11-15,28.5,24274.46,2022.87,23,3,8.4,True,8,5,0.64,2025-03-05,False,
+CUST-0305,Helix Works,E-Commerce / DTC,Enterprise,silent_churner,2021-12-18,39.4,355670.47,29639.21,0,20,1.8,False,191,16,0.1,2024-06-01,False,
+CUST-0306,Nova Studio,Healthcare,Growth,silent_churner,2023-10-08,17.8,28363.79,2363.65,0,16,1.0,False,17,1,0.15,2024-09-15,True,6.0
+CUST-0307,Vanta Co,E-Commerce / DTC,Starter,power_user,2022-10-10,29.7,6305.04,525.42,30,2,10.0,True,5,4,0.65,2025-03-05,False,
+CUST-0308,Nova Group,Education,Starter,silent_churner,2023-08-29,19.1,12851.88,1070.99,6,19,1.7,False,6,1,0.02,2024-10-13,True,5.0
+CUST-0309,Dune Systems,Financial Services,Starter,casual_adopter,2022-04-17,35.5,9558.61,796.55,15,1,6.5,False,4,1,0.3,2024-04-05,False,
+CUST-0310,Cedar Group,Professional Services,Starter,casual_adopter,2022-10-26,29.2,15649.73,1304.14,16,5,4.9,False,5,2,0.2,2025-03-05,False,
+CUST-0311,Orbit Works,Professional Services,Growth,silent_churner,2023-10-16,17.5,28948.23,2412.35,6,15,0.8,False,10,1,0.12,2025-01-08,False,
+CUST-0312,Zara Systems,E-Commerce / DTC,Growth,silent_churner,2024-02-14,13.5,22587.99,1882.33,1,25,4.2,False,15,1,0.01,2024-06-28,True,8.0
+CUST-0313,Forge IO,SaaS / Tech,Starter,power_user,2023-12-20,15.4,11474.22,956.18,36,0,10.0,True,7,6,1.0,2025-03-30,False,
+CUST-0314,Dune Studio,Financial Services,Growth,casual_adopter,2021-07-11,44.7,38262.32,3188.53,7,4,4.4,True,20,9,0.48,2025-03-29,False,
+CUST-0315,Sable Ventures,Healthcare,Starter,casual_adopter,2023-09-17,18.5,7840.43,653.37,0,2,5.9,False,7,2,0.27,2024-09-08,False,
+CUST-0316,Faro Inc,E-Commerce / DTC,Growth,casual_adopter,2024-04-27,11.1,39565.22,3297.1,12,3,6.1,False,15,6,0.52,2025-03-16,False,
+CUST-0317,Peak Partners,E-Commerce / DTC,Growth,power_user,2022-06-10,33.7,44502.03,3708.5,40,3,7.9,False,21,17,0.7,2025-03-15,False,
+CUST-0318,Dune Solutions,Media & Entertainment,Starter,casual_adopter,2023-04-03,23.9,15451.25,1287.6,18,8,5.6,True,4,1,0.16,2025-03-07,False,
+CUST-0319,Dune Works,Professional Services,Growth,at_risk,2021-06-22,45.3,56859.59,4738.3,3,11,1.7,False,20,7,0.22,2024-04-05,True,11.0
+CUST-0320,Lumis Inc,Media & Entertainment,Starter,power_user,2023-08-06,19.8,12719.31,1059.94,17,0,8.7,True,7,5,0.62,2025-03-19,False,
+CUST-0321,Nexus Works,Financial Services,Growth,casual_adopter,2024-02-29,13.0,53081.86,4423.49,11,6,3.2,False,23,15,0.66,2025-03-26,False,
+CUST-0322,Crest Inc,Professional Services,Starter,casual_adopter,2022-01-04,38.9,7430.27,619.19,16,7,6.8,False,2,1,0.55,2024-02-28,True,12.0
+CUST-0323,Lumis Studio,SaaS / Tech,Scale,power_user,2021-08-18,43.4,150582.1,12548.51,38,2,7.5,True,75,74,1.0,2025-03-25,False,
+CUST-0324,Nova Media,Professional Services,Starter,casual_adopter,2022-10-28,29.1,17648.4,1470.7,22,6,7.3,True,8,4,0.32,2025-03-06,False,
+CUST-0325,Flux Partners,Logistics,Enterprise,at_risk,2024-06-17,9.5,361464.99,30122.08,6,14,2.8,False,137,53,0.37,2024-09-14,False,
+CUST-0326,Lumis Systems,Healthcare,Growth,casual_adopter,2022-08-21,31.3,28983.96,2415.33,15,9,7.4,True,10,4,0.29,2025-03-24,False,
+CUST-0327,Apex Systems,Media & Entertainment,Starter,power_user,2022-04-26,35.2,8864.1,738.68,29,2,6.3,True,3,2,0.65,2025-03-25,False,
+CUST-0328,Slate HQ,E-Commerce / DTC,Scale,silent_churner,2022-07-15,32.6,88577.75,7381.48,7,10,0.4,False,35,2,0.29,2025-01-09,True,2.0
+CUST-0329,Faro Works,Education,Scale,at_risk,2024-04-29,11.1,106817.43,8901.45,0,8,5.0,False,47,8,0.2,2024-10-15,True,5.0
+CUST-0330,Forge Media,Education,Scale,silent_churner,2023-05-15,22.6,109876.32,9156.36,0,18,3.2,False,49,6,0.21,2024-11-12,True,4.0
+CUST-0331,Pulse Co,Media & Entertainment,Starter,power_user,2021-12-25,39.2,7946.32,662.19,45,0,6.2,True,3,2,0.87,2025-03-09,False,
+CUST-0332,Lumis Inc,Education,Scale,power_user,2024-08-20,7.4,159878.78,13323.23,32,0,9.5,True,25,19,0.87,2025-03-14,False,
+CUST-0333,Cove IO,Healthcare,Scale,power_user,2023-12-23,15.3,177423.9,14785.32,27,4,6.1,True,43,39,0.87,2025-03-16,False,
+CUST-0334,Bloom IO,Healthcare,Growth,at_risk,2024-06-13,9.6,24062.75,2005.23,5,16,5.1,False,20,3,0.02,2024-10-26,True,4.0
+CUST-0335,Orbit HQ,E-Commerce / DTC,Growth,power_user,2022-07-25,32.2,44872.0,3739.33,16,1,9.9,True,25,18,0.72,2025-03-28,False,
+CUST-0336,Peak Ventures,Logistics,Growth,power_user,2024-01-31,14.0,36568.6,3047.38,30,0,10.0,True,19,15,0.73,2025-03-15,False,
+CUST-0337,Prism Partners,Education,Starter,casual_adopter,2024-04-14,11.6,12093.51,1007.79,25,7,8.4,True,2,1,0.35,2025-03-16,False,
+CUST-0338,Bloom Labs,Logistics,Scale,silent_churner,2021-07-03,44.9,121294.13,10107.84,0,20,2.5,False,46,8,0.19,2024-11-27,False,
+CUST-0339,Echo Digital,Logistics,Scale,at_risk,2023-06-28,21.1,113160.99,9430.08,5,12,2.8,False,59,21,0.39,2024-12-23,True,2.0
+CUST-0340,Orbit Partners,Professional Services,Scale,power_user,2024-05-04,10.9,154747.79,12895.65,8,2,5.5,True,49,32,0.83,2024-05-16,True,10.0
+CUST-0341,Forge HQ,Financial Services,Growth,power_user,2023-05-04,22.9,57633.14,4802.76,31,1,9.4,True,18,13,0.68,2025-03-18,False,
+CUST-0342,Ridge Studio,SaaS / Tech,Growth,silent_churner,2023-09-19,18.4,30028.57,2502.38,5,13,3.5,False,20,4,0.23,2025-03-09,False,
+CUST-0343,Solus Studio,Professional Services,Starter,casual_adopter,2023-12-23,15.3,10321.19,860.1,17,7,5.1,True,7,3,0.36,2024-07-16,True,8.0
+CUST-0344,Faro Studio,E-Commerce / DTC,Growth,at_risk,2022-08-05,31.9,19703.01,1641.92,1,14,4.1,False,10,2,0.29,2025-03-19,False,
+CUST-0345,Solus Inc,Financial Services,Scale,power_user,2022-06-12,33.6,109072.87,9089.41,29,3,10.0,True,32,29,0.9,2025-03-09,False,
+CUST-0346,Pulse Solutions,Education,Enterprise,power_user,2023-08-13,19.6,296275.84,24689.65,19,3,8.1,True,183,170,0.81,2025-03-13,False,
+CUST-0347,Cedar Works,SaaS / Tech,Starter,at_risk,2024-04-18,11.4,8168.24,680.69,9,12,2.8,False,8,2,0.25,2025-03-20,False,
+CUST-0348,Solus HQ,Healthcare,Starter,casual_adopter,2022-02-06,37.8,16120.46,1343.37,0,8,7.4,True,4,2,0.54,2025-03-30,False,
+CUST-0349,Apex Systems,E-Commerce / DTC,Starter,power_user,2023-05-30,22.1,12259.83,1021.65,20,0,9.4,True,6,4,0.7,2025-03-22,False,
+CUST-0350,Sable Ventures,SaaS / Tech,Growth,silent_churner,2021-09-24,42.2,27677.65,2306.47,2,9,4.3,False,15,3,0.3,2025-01-06,True,2.0
+CUST-0351,Nexus Partners,Financial Services,Scale,at_risk,2022-10-31,29.0,81075.3,6756.28,7,10,6.5,False,49,9,0.04,2024-09-23,True,5.0
+CUST-0352,Lumis HQ,Financial Services,Starter,at_risk,2022-12-14,27.6,13207.82,1100.65,1,9,3.7,False,3,1,0.25,2025-03-12,False,
+CUST-0353,Flux HQ,Media & Entertainment,Growth,power_user,2023-07-23,20.3,52816.78,4401.4,39,1,7.9,True,22,21,1.0,2025-03-30,False,
+CUST-0354,Lumis Inc,Logistics,Growth,silent_churner,2023-08-28,19.1,55351.66,4612.64,0,9,2.4,False,17,1,0.01,2025-01-05,True,2.0
+CUST-0355,Solus Labs,Education,Scale,power_user,2021-10-04,41.9,147701.92,12308.49,15,3,9.6,True,47,42,0.91,2025-03-14,False,
+CUST-0356,Solus Co,Professional Services,Starter,silent_churner,2021-06-28,45.1,15135.36,1261.28,2,14,2.8,False,3,1,0.09,2025-01-15,False,
+CUST-0357,Tide Co,Financial Services,Starter,casual_adopter,2021-11-01,41.0,8103.82,675.32,17,5,6.1,True,5,2,0.67,2025-03-27,False,
+CUST-0358,Prism Media,SaaS / Tech,Growth,casual_adopter,2023-10-06,17.8,23755.71,1979.64,17,0,8.8,False,9,3,0.3,2025-03-08,False,
+CUST-0359,Nexus IO,Professional Services,Growth,casual_adopter,2023-10-10,17.7,46135.78,3844.65,25,5,7.5,True,16,8,0.62,2025-03-04,False,
+CUST-0360,Sable Labs,Logistics,Growth,silent_churner,2023-05-23,22.3,44394.68,3699.56,3,23,2.8,False,8,1,0.09,2024-12-07,True,3.0
+CUST-0361,Crest Inc,Logistics,Scale,power_user,2024-09-01,7.0,83061.59,6921.8,24,8,7.5,True,46,41,0.93,2025-03-13,False,
+CUST-0362,Nova Digital,Media & Entertainment,Scale,power_user,2022-11-26,28.2,96965.32,8080.44,17,3,10.0,True,34,25,0.89,2025-03-15,False,
+CUST-0363,Crest Partners,Financial Services,Starter,casual_adopter,2022-01-10,38.7,6120.44,510.04,3,0,7.8,True,3,1,0.45,2025-03-31,False,
+CUST-0364,Cove HQ,Media & Entertainment,Growth,power_user,2022-09-03,30.9,47074.21,3922.85,23,0,9.5,False,12,9,0.73,2025-03-19,False,
+CUST-0365,Orbit Media,E-Commerce / DTC,Scale,power_user,2023-02-12,25.6,122347.44,10195.62,33,7,7.8,True,30,28,0.92,2025-03-31,False,
+CUST-0366,Dune Works,SaaS / Tech,Enterprise,power_user,2023-08-30,19.1,533248.47,44437.37,23,3,7.8,True,125,101,0.91,2025-03-05,False,
+CUST-0367,Flux Digital,Healthcare,Starter,power_user,2024-05-15,10.5,16994.98,1416.25,32,1,8.5,True,4,3,0.98,2025-03-26,False,
+CUST-0368,Forge Labs,Healthcare,Scale,power_user,2022-08-23,31.3,122215.1,10184.59,23,6,8.5,True,59,52,0.9,2025-03-24,False,
+CUST-0369,Nexus Studio,E-Commerce / DTC,Starter,casual_adopter,2023-08-12,19.6,10171.7,847.64,9,1,3.9,False,8,4,0.7,2025-03-11,False,
+CUST-0370,Forge Digital,Media & Entertainment,Scale,casual_adopter,2024-01-03,14.9,93810.93,7817.58,13,4,6.7,False,75,46,0.59,2025-03-12,False,
+CUST-0371,Forge Co,Financial Services,Growth,at_risk,2022-08-09,31.7,44845.6,3737.13,11,6,3.0,False,12,3,0.35,2025-01-10,True,2.0
+CUST-0372,Peak HQ,SaaS / Tech,Enterprise,casual_adopter,2022-05-03,35.0,577169.84,48097.49,11,1,6.8,True,217,154,0.82,2025-03-14,False,
+CUST-0373,Kova Ventures,E-Commerce / DTC,Growth,casual_adopter,2022-02-20,37.3,21793.86,1816.15,19,6,6.0,True,22,14,0.6,2025-03-10,False,
+CUST-0374,Cove Ventures,Media & Entertainment,Starter,power_user,2021-10-20,41.4,10914.2,909.52,20,1,7.7,True,5,4,0.73,2025-03-18,False,
+CUST-0375,Cove Group,Logistics,Scale,casual_adopter,2022-07-01,33.0,151557.68,12629.81,5,5,6.5,True,75,51,0.79,2025-03-15,False,
+CUST-0376,Pulse Labs,SaaS / Tech,Starter,power_user,2024-01-17,14.5,7599.38,633.28,14,1,8.2,False,8,5,0.57,2024-01-16,True,14.0
+CUST-0377,Tide Inc,Education,Scale,power_user,2024-07-26,8.2,139857.87,11654.82,29,1,8.8,True,40,29,0.63,2025-03-31,False,
+CUST-0378,Kova Works,Logistics,Starter,power_user,2022-09-06,30.8,8980.08,748.34,22,0,8.5,True,3,2,0.6,2025-03-18,False,
+CUST-0379,Nova Media,E-Commerce / DTC,Growth,at_risk,2022-03-27,36.2,41651.36,3470.95,10,15,4.1,False,19,4,0.16,2024-10-17,True,4.0
+CUST-0380,Echo HQ,Professional Services,Scale,casual_adopter,2023-05-25,22.2,178285.61,14857.13,3,7,6.7,True,47,34,0.81,2025-03-04,False,
+CUST-0381,Orbit Solutions,Healthcare,Starter,power_user,2023-09-25,18.2,6440.05,536.67,31,0,10.0,True,3,2,0.72,2025-03-04,False,
+CUST-0382,Dune Solutions,Media & Entertainment,Growth,casual_adopter,2024-01-15,14.5,47494.8,3957.9,0,0,5.1,False,20,9,0.52,2025-03-30,False,
+CUST-0383,Tide Labs,Media & Entertainment,Scale,silent_churner,2023-01-24,26.2,128990.37,10749.2,5,21,3.9,False,49,2,0.08,2025-01-04,True,2.0
+CUST-0384,Echo Ventures,Media & Entertainment,Scale,power_user,2024-06-27,9.1,162968.78,13580.73,36,5,8.3,True,65,56,0.8,2025-03-05,False,
+CUST-0385,Wren Group,Education,Scale,at_risk,2022-02-12,37.6,102738.83,8561.57,5,10,3.3,False,62,18,0.36,2024-03-19,True,11.0
+CUST-0386,Dune HQ,Media & Entertainment,Growth,casual_adopter,2024-01-18,14.4,57148.99,4762.42,18,1,8.6,True,14,9,0.76,2025-03-29,False,
+CUST-0387,Dune Systems,Financial Services,Starter,casual_adopter,2023-05-28,22.1,17624.82,1468.73,8,4,7.8,True,4,2,0.56,2025-03-25,False,
+CUST-0388,Lumis Systems,SaaS / Tech,Starter,silent_churner,2022-09-15,30.5,6856.1,571.34,0,14,0.8,False,5,1,0.24,2025-01-10,False,
+CUST-0389,Kova Labs,Healthcare,Growth,casual_adopter,2022-11-30,28.0,32982.17,2748.51,23,3,6.0,False,24,14,0.5,2025-03-19,False,
+CUST-0390,Cedar Group,E-Commerce / DTC,Starter,casual_adopter,2023-07-11,20.7,8936.71,744.73,4,0,5.7,False,3,1,0.35,2025-03-06,False,
+CUST-0391,Nova HQ,Professional Services,Scale,at_risk,2022-11-02,28.9,159605.43,13300.45,1,14,5.7,False,39,7,0.1,2025-03-29,False,
+CUST-0392,Zara Labs,Healthcare,Starter,silent_churner,2023-10-21,17.3,16950.53,1412.54,0,12,0.6,False,8,1,0.12,2024-12-19,True,2.0
+CUST-0393,Prism Works,SaaS / Tech,Starter,casual_adopter,2022-06-16,33.5,15349.49,1279.12,11,0,7.5,True,5,2,0.24,2025-03-24,False,
+CUST-0394,Peak Labs,Logistics,Enterprise,silent_churner,2024-02-12,13.6,544598.41,45383.2,0,25,4.7,False,247,52,0.05,2025-01-15,False,
+CUST-0395,Vanta Solutions,Healthcare,Scale,at_risk,2021-06-06,45.8,129157.41,10763.12,0,12,3.0,False,33,14,0.4,2025-01-18,False,
+CUST-0396,Tide Group,Professional Services,Starter,at_risk,2022-12-28,27.1,16776.51,1398.04,2,10,4.8,False,7,1,0.09,2025-03-26,False,
+CUST-0397,Nova Digital,Education,Growth,casual_adopter,2023-06-04,21.9,30244.75,2520.4,2,9,7.2,True,16,11,0.7,2025-03-19,False,
+CUST-0398,Tide Ventures,Education,Scale,casual_adopter,2022-10-15,29.5,72922.63,6076.89,7,6,6.1,True,63,25,0.39,2024-02-17,False,
+CUST-0399,Faro Inc,Professional Services,Growth,power_user,2023-02-09,25.7,48699.73,4058.31,37,0,9.8,True,22,16,0.73,2025-03-12,False,
+CUST-0400,Faro Systems,Professional Services,Starter,power_user,2023-03-19,24.4,11357.27,946.44,36,0,7.9,True,6,5,0.89,2025-03-29,False,
+CUST-0401,Slate Co,Logistics,Growth,power_user,2024-02-08,13.7,19076.96,1589.75,36,6,9.4,False,19,14,0.69,2025-03-09,False,
+CUST-0402,Prism Media,Education,Scale,at_risk,2024-02-19,13.4,156540.26,13045.02,9,8,1.7,False,59,26,0.42,2025-03-18,False,
+CUST-0403,Helix Digital,Professional Services,Starter,power_user,2023-10-26,17.2,7612.46,634.37,36,1,10.0,False,3,2,0.82,2025-03-13,False,
+CUST-0404,Wren Partners,E-Commerce / DTC,Enterprise,power_user,2021-11-22,40.3,282285.88,23523.82,25,1,9.1,True,178,157,0.88,2025-03-22,False,
+CUST-0405,Sable Studio,Healthcare,Growth,power_user,2023-06-13,21.6,21720.62,1810.05,41,8,8.6,True,24,21,0.86,2025-03-17,False,
+CUST-0406,Echo HQ,Logistics,Starter,silent_churner,2022-04-09,35.7,13428.95,1119.08,7,20,2.1,False,3,1,0.34,2025-01-15,False,
+CUST-0407,Pulse Media,Logistics,Scale,silent_churner,2023-02-11,25.6,80145.65,6678.8,0,24,2.5,False,33,7,0.19,2025-03-19,False,
+CUST-0408,Vanta HQ,Media & Entertainment,Starter,at_risk,2023-07-29,20.1,9742.95,811.91,12,15,2.4,False,8,2,0.18,2025-03-20,False,
+CUST-0409,Prism Partners,Logistics,Growth,casual_adopter,2021-09-25,42.2,41325.13,3443.76,8,5,9.7,True,11,7,0.54,2025-03-15,False,
+CUST-0410,Nexus IO,Logistics,Growth,power_user,2021-11-22,40.3,58124.87,4843.74,14,3,9.7,True,24,19,0.71,2025-03-05,False,
+CUST-0411,Zara IO,Professional Services,Starter,casual_adopter,2024-07-31,8.0,6233.41,519.45,10,3,7.9,False,2,1,0.59,2024-08-01,False,
+CUST-0412,Forge Inc,Healthcare,Scale,casual_adopter,2023-03-27,24.2,171157.4,14263.12,11,7,7.9,True,59,29,0.43,2025-03-23,False,
+CUST-0413,Apex Media,Media & Entertainment,Scale,power_user,2022-03-15,36.6,148649.83,12387.49,19,3,7.8,True,42,31,0.72,2025-03-16,False,
+CUST-0414,Kova IO,Logistics,Starter,casual_adopter,2024-05-22,10.3,9137.03,761.42,18,2,7.4,False,7,2,0.36,2025-03-30,False,
+CUST-0415,Vanta IO,E-Commerce / DTC,Starter,power_user,2023-05-08,22.8,16047.98,1337.33,28,4,9.6,True,8,6,0.72,2025-03-28,False,
+CUST-0416,Sable Media,Professional Services,Starter,silent_churner,2021-07-01,45.0,13642.05,1136.84,5,20,4.2,False,8,1,0.18,2025-03-27,False,
+CUST-0417,Sable Systems,Financial Services,Growth,silent_churner,2021-06-24,45.2,37485.48,3123.79,0,8,1.9,False,20,3,0.01,2024-09-26,True,5.0
+CUST-0418,Helix Systems,Financial Services,Starter,casual_adopter,2022-08-04,31.9,8860.41,738.37,15,6,9.9,True,2,1,0.49,2025-03-15,False,
+CUST-0419,Forge Ventures,Education,Growth,power_user,2021-10-26,41.2,36656.92,3054.74,33,0,10.0,True,12,11,0.93,2025-03-05,False,
+CUST-0420,Kova HQ,E-Commerce / DTC,Scale,silent_churner,2023-01-22,26.3,102083.97,8507.0,0,21,4.3,False,44,9,0.2,2024-08-17,True,7.0
+CUST-0421,Peak Co,Logistics,Scale,casual_adopter,2022-10-26,29.2,71268.75,5939.06,10,0,6.1,True,25,10,0.23,2024-08-17,True,6.0
+CUST-0422,Crest Works,Media & Entertainment,Starter,casual_adopter,2021-12-25,39.2,8147.66,678.97,6,5,6.9,True,5,2,0.52,2025-03-05,False,
+CUST-0423,Solus Works,Professional Services,Growth,power_user,2024-08-28,7.1,29466.55,2455.55,23,2,8.4,True,10,7,0.61,2025-03-12,False,
+CUST-0424,Orbit Ventures,E-Commerce / DTC,Growth,casual_adopter,2022-03-20,36.4,37523.5,3126.96,9,3,6.7,True,13,7,0.57,2025-03-06,False,
+CUST-0425,Helix Digital,Professional Services,Growth,casual_adopter,2022-09-22,30.3,42607.89,3550.66,8,5,7.3,False,15,9,0.6,2025-03-13,False,
+CUST-0426,Zara Partners,SaaS / Tech,Growth,casual_adopter,2022-06-16,33.5,49983.48,4165.29,12,6,8.1,False,18,12,0.77,2025-03-17,False,
+CUST-0427,Nova Inc,Media & Entertainment,Growth,power_user,2023-12-13,15.6,22621.68,1885.14,36,5,10.0,True,14,10,0.93,2025-03-19,False,
+CUST-0428,Echo Labs,Education,Scale,casual_adopter,2023-05-11,22.7,74585.17,6215.43,8,0,8.1,True,67,35,0.39,2025-03-22,False,
+CUST-0429,Orbit Solutions,Education,Growth,power_user,2022-04-09,35.7,55146.39,4595.53,30,3,7.4,True,11,8,0.67,2025-03-06,False,
+CUST-0430,Slate Ventures,Logistics,Growth,power_user,2022-08-02,32.0,40747.1,3395.59,39,2,10.0,False,10,8,0.82,2025-03-18,False,
+CUST-0431,Flux Digital,Logistics,Growth,power_user,2023-09-03,18.9,27552.19,2296.02,27,4,6.4,True,25,21,0.73,2025-03-11,False,
+CUST-0432,Orbit Inc,Logistics,Starter,casual_adopter,2024-05-30,10.1,8724.4,727.03,14,5,6.2,False,4,2,0.58,2025-03-05,False,
+CUST-0433,Sable Digital,Healthcare,Growth,power_user,2022-05-10,34.7,46088.58,3840.72,27,3,7.7,True,24,19,0.87,2025-03-14,False,
+CUST-0434,Prism Partners,Professional Services,Growth,power_user,2021-12-03,39.9,37406.3,3117.19,28,0,10.0,True,17,13,0.82,2025-03-12,False,
+CUST-0435,Cove Labs,Logistics,Enterprise,casual_adopter,2024-06-28,9.1,346577.16,28881.43,25,2,8.1,True,124,74,0.62,2025-03-04,False,
+CUST-0436,Apex Systems,SaaS / Tech,Scale,power_user,2023-01-30,26.0,173783.33,14481.94,28,3,7.8,True,29,24,0.97,2025-03-25,False,
+CUST-0437,Orbit Media,Logistics,Starter,at_risk,2022-07-10,32.7,6222.11,518.51,9,12,5.9,False,7,2,0.17,2025-03-30,False,
+CUST-0438,Flux Solutions,SaaS / Tech,Starter,casual_adopter,2024-03-09,12.7,13619.9,1134.99,12,3,7.7,True,4,1,0.26,2025-03-31,False,
+CUST-0439,Tide Co,Financial Services,Scale,at_risk,2022-08-11,31.7,143264.31,11938.69,0,8,1.7,False,30,12,0.33,2023-11-02,True,16.0
+CUST-0440,Lumis Labs,Education,Growth,at_risk,2024-05-23,10.3,43075.69,3589.64,0,11,3.1,False,15,5,0.42,2024-09-18,False,
+CUST-0441,Kova Studio,Media & Entertainment,Starter,at_risk,2021-11-09,40.7,13233.48,1102.79,2,9,2.6,False,4,1,0.07,2025-03-12,False,
+CUST-0442,Cove Ventures,E-Commerce / DTC,Growth,silent_churner,2023-11-16,16.5,19520.71,1626.73,0,12,3.1,False,12,2,0.17,2025-02-10,True,1.0
+CUST-0443,Forge Partners,Financial Services,Growth,casual_adopter,2022-01-26,38.1,58760.66,4896.72,9,9,7.8,True,20,8,0.43,2025-03-15,False,
+CUST-0444,Cove Solutions,Professional Services,Scale,casual_adopter,2024-07-11,8.7,66235.89,5519.66,17,5,9.1,True,43,20,0.38,2025-03-05,False,
+CUST-0445,Vanta Co,Logistics,Scale,silent_churner,2022-01-29,38.0,103590.56,8632.55,0,17,0.0,False,47,11,0.17,2024-10-09,False,
+CUST-0446,Tide Works,Media & Entertainment,Enterprise,power_user,2022-11-24,28.2,348296.86,29024.74,37,2,6.5,True,178,176,0.99,2025-03-29,False,
+CUST-0447,Dune Ventures,E-Commerce / DTC,Scale,at_risk,2023-10-07,17.8,160628.22,13385.68,2,13,3.1,False,54,19,0.45,2025-03-30,False,
+CUST-0448,Drift Labs,Media & Entertainment,Enterprise,at_risk,2022-09-23,30.3,480521.99,40043.5,4,19,3.2,False,235,43,0.08,2024-05-04,True,10.0
+CUST-0449,Slate Media,SaaS / Tech,Growth,power_user,2022-03-13,36.6,53407.1,4450.59,45,0,8.6,True,12,8,0.58,2025-03-29,False,
+CUST-0450,Drift Systems,Professional Services,Growth,silent_churner,2024-01-26,14.2,41705.83,3475.49,0,15,0.0,False,16,2,0.23,2024-07-10,True,8.0
+CUST-0451,Helix Labs,Healthcare,Starter,silent_churner,2024-03-06,12.8,17829.92,1485.83,0,24,2.8,False,3,1,0.3,2024-03-08,True,12.0
+CUST-0452,Drift Digital,Financial Services,Scale,at_risk,2024-07-16,8.5,98475.56,8206.3,2,9,4.1,False,26,4,0.07,2025-03-07,False,
+CUST-0453,Kova Group,Education,Starter,at_risk,2021-09-28,42.1,10807.1,900.59,5,4,4.5,False,4,1,0.32,2024-06-22,False,
+CUST-0454,Cedar Studio,Financial Services,Growth,at_risk,2024-02-17,13.4,41565.39,3463.78,5,15,2.2,False,19,6,0.27,2024-11-16,True,4.0
+CUST-0455,Dune Digital,Media & Entertainment,Growth,power_user,2024-01-13,14.6,31644.95,2637.08,28,3,10.0,True,21,20,1.0,2025-03-14,False,
+CUST-0456,Vanta Works,E-Commerce / DTC,Scale,casual_adopter,2022-03-23,36.3,77595.51,6466.29,13,6,6.2,False,26,15,0.51,2025-03-20,False,
+CUST-0457,Nexus Inc,Professional Services,Growth,casual_adopter,2024-03-03,12.9,46566.89,3880.57,9,5,5.1,False,22,10,0.43,2025-03-08,False,
+CUST-0458,Lumis Labs,Financial Services,Starter,silent_churner,2022-10-18,29.4,10241.04,853.42,12,18,0.8,False,3,1,0.42,2024-06-11,True,9.0
+CUST-0459,Prism Labs,Professional Services,Growth,at_risk,2024-03-17,12.5,54560.86,4546.74,0,13,3.0,False,20,8,0.38,2024-09-21,True,5.0
+CUST-0460,Echo Studio,Education,Starter,silent_churner,2022-05-04,34.9,13957.42,1163.12,0,20,3.4,False,4,1,0.33,2024-12-19,True,2.0
+CUST-0461,Faro Works,Professional Services,Growth,at_risk,2024-06-09,9.7,18485.29,1540.44,3,19,3.0,False,11,2,0.17,2024-06-10,True,9.0
+CUST-0462,Prism Labs,Education,Growth,silent_churner,2021-06-14,45.6,22579.07,1881.59,0,11,4.3,False,13,2,0.35,2024-12-22,False,
+CUST-0463,Cove Ventures,Professional Services,Starter,at_risk,2022-04-25,35.2,8249.95,687.5,6,6,1.3,False,4,1,0.41,2025-03-26,False,
+CUST-0464,Drift Co,Logistics,Enterprise,at_risk,2023-03-19,24.4,316227.1,26352.26,19,6,4.1,False,104,22,0.08,2025-03-09,False,
+CUST-0465,Sable Digital,Financial Services,Growth,power_user,2024-01-15,14.5,26432.96,2202.75,34,3,9.1,False,16,14,0.93,2025-03-09,False,
+CUST-0466,Nova Partners,Education,Growth,power_user,2024-07-27,8.1,46103.9,3841.99,36,0,7.4,True,15,12,0.72,2025-03-28,False,
+CUST-0467,Wren Works,Logistics,Scale,power_user,2024-03-16,12.5,87057.41,7254.78,22,0,10.0,True,70,69,1.0,2025-03-07,False,
+CUST-0468,Wren IO,Professional Services,Starter,casual_adopter,2023-01-29,26.1,11048.74,920.73,16,1,3.5,True,7,3,0.44,2025-03-09,False,
+CUST-0469,Bloom Digital,Healthcare,Growth,power_user,2024-01-10,14.7,34676.17,2889.68,22,1,10.0,True,9,7,0.67,2025-03-17,False,
+CUST-0470,Cedar Solutions,Financial Services,Enterprise,silent_churner,2023-07-08,20.8,598952.32,49912.69,0,15,0.6,False,178,37,0.32,2025-01-12,True,2.0
+CUST-0471,Peak Studio,Logistics,Starter,casual_adopter,2023-10-21,17.3,11444.78,953.73,15,3,5.5,True,2,1,0.52,2025-03-14,False,
+CUST-0472,Bloom Partners,SaaS / Tech,Scale,at_risk,2023-10-06,17.8,65611.42,5467.62,13,17,5.1,False,63,17,0.24,2024-05-19,False,
+CUST-0473,Wren HQ,SaaS / Tech,Starter,at_risk,2021-11-02,40.9,17762.28,1480.19,0,8,2.6,False,3,1,0.29,2024-09-25,True,5.0
+CUST-0474,Flux Ventures,E-Commerce / DTC,Growth,at_risk,2022-06-05,33.9,58878.31,4906.53,4,4,4.3,False,21,4,0.2,2025-03-20,False,
+CUST-0475,Nexus Studio,Media & Entertainment,Growth,casual_adopter,2023-06-09,21.7,19691.21,1640.93,14,0,5.0,True,14,8,0.61,2025-03-28,False,
+CUST-0476,Prism Works,Education,Starter,power_user,2021-07-29,44.1,16387.28,1365.61,32,0,9.1,False,8,5,0.61,2023-11-12,True,16.0
+CUST-0477,Cedar Labs,Healthcare,Growth,at_risk,2021-07-13,44.6,44078.89,3673.24,5,14,6.7,True,17,7,0.13,2025-03-15,False,
+CUST-0478,Nexus Works,Healthcare,Growth,at_risk,2021-09-02,42.9,56553.03,4712.75,8,11,1.8,False,12,4,0.33,2024-09-06,False,
+CUST-0479,Sable Co,Financial Services,Growth,casual_adopter,2023-04-08,23.8,44185.77,3682.15,7,8,5.7,True,20,9,0.31,2025-03-20,False,
+CUST-0480,Helix Group,Financial Services,Starter,casual_adopter,2021-12-10,39.7,13538.99,1128.25,10,4,8.7,True,7,4,0.55,2025-03-08,False,
+CUST-0481,Forge Media,SaaS / Tech,Growth,at_risk,2024-04-11,11.7,51865.85,4322.15,10,10,6.1,False,9,2,0.08,2024-04-19,True,10.0
+CUST-0482,Flux Inc,Healthcare,Enterprise,power_user,2024-02-17,13.4,195027.03,16252.25,34,0,9.8,True,216,189,0.74,2025-03-06,False,
+CUST-0483,Pulse Systems,Education,Growth,at_risk,2024-02-18,13.4,22221.18,1851.77,2,19,5.6,False,17,6,0.47,2024-10-05,False,
+CUST-0484,Zara Studio,E-Commerce / DTC,Scale,power_user,2022-03-23,36.3,74603.95,6217.0,33,1,9.0,True,65,63,0.94,2025-03-16,False,
+CUST-0485,Pulse Partners,E-Commerce / DTC,Starter,power_user,2021-08-09,43.7,6164.01,513.67,39,0,9.3,True,7,5,0.67,2025-03-27,False,
+CUST-0486,Wren Media,Professional Services,Growth,power_user,2022-08-11,31.7,27939.4,2328.28,19,1,9.9,True,13,7,0.59,2022-12-18,True,26.0
+CUST-0487,Faro Works,E-Commerce / DTC,Growth,at_risk,2023-09-30,18.0,19655.59,1637.97,9,11,4.5,True,15,3,0.16,2024-06-07,True,9.0
+CUST-0488,Flux Inc,Media & Entertainment,Growth,power_user,2022-02-15,37.5,22747.84,1895.65,27,9,8.2,True,23,16,0.91,2025-03-25,False,
+CUST-0489,Flux Inc,SaaS / Tech,Scale,at_risk,2023-04-25,23.2,101706.43,8475.54,0,10,4.8,False,70,19,0.24,2025-03-21,False,
+CUST-0490,Vanta Labs,Healthcare,Scale,silent_churner,2021-12-11,39.7,80037.39,6669.78,1,14,1.2,False,58,11,0.23,2024-07-03,False,
+CUST-0491,Pulse Media,Financial Services,Scale,casual_adopter,2023-06-20,21.4,67240.71,5603.39,10,1,6.1,True,41,17,0.51,2024-02-19,True,12.0
+CUST-0492,Echo HQ,Media & Entertainment,Scale,casual_adopter,2023-05-01,23.0,175089.83,14590.82,13,3,4.7,True,52,27,0.68,2025-03-18,False,
+CUST-0493,Solus Digital,E-Commerce / DTC,Scale,casual_adopter,2024-01-28,14.1,170526.9,14210.57,9,4,5.8,True,67,39,0.51,2025-03-22,False,
+CUST-0494,Nexus Inc,Healthcare,Growth,at_risk,2024-05-12,10.6,55859.69,4654.97,0,18,6.1,False,19,4,0.17,2024-05-14,True,10.0
+CUST-0495,Crest IO,SaaS / Tech,Scale,at_risk,2024-07-09,8.7,70136.89,5844.74,6,13,4.4,False,25,10,0.53,2025-03-19,False,
+CUST-0496,Vanta Media,Financial Services,Growth,at_risk,2022-08-06,31.8,42790.42,3565.87,10,18,5.6,False,11,2,0.26,2023-12-18,True,15.0
+CUST-0497,Echo Inc,SaaS / Tech,Starter,at_risk,2023-01-03,26.9,17183.11,1431.93,10,11,4.1,False,8,3,0.49,2025-03-18,False,
+CUST-0498,Apex Inc,Professional Services,Starter,power_user,2023-11-09,16.7,11279.73,939.98,27,7,9.2,True,8,6,0.61,2025-03-19,False,
+CUST-0499,Apex Media,Professional Services,Scale,power_user,2023-05-02,23.0,121395.9,10116.32,23,0,7.3,True,74,66,1.0,2025-03-24,False,
+CUST-0500,Nexus Studio,Logistics,Growth,power_user,2023-10-14,17.6,55178.0,4598.17,42,3,9.1,True,17,13,0.68,2025-03-16,False,
