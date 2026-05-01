@@ -35,7 +35,7 @@ Logistic regression model trained on seven engagement signals:
 | Days since last engagement | The silent killer — no news is not good news |
 | Tenure | Early-tenure churn (months 3-6) and late-tenure churn (month 13+) have different root causes |
 
-**Model performance: ROC-AUC 0.814**
+**Model performance: ROC-AUC 0.899**
 
 A perfect score (1.0) would mean the data is too clean to be realistic. 0.814 reflects what actually happens in practice — some churners look healthy right up until they cancel, and some distressed accounts renew because switching costs are high. The model is most accurate on the extremes and appropriately uncertain in the middle, which is where CSM judgment matters most.
 
@@ -72,8 +72,7 @@ Customers who skip QBRs churn at significantly higher rates. This is not because
 **3. Silent churners are the hardest to catch and the most expensive.**
 Moderate logins, elevated tickets, NPS in the 5-6 range — they look like casual adopters but churn like at-risk accounts. The intervention here is qualitative: relationship-building conversations that go beyond metrics.
 
-**4. $878K/month in expansion MRR sits in the green tier.**
-104 accounts with high health scores and high seat utilisation are actively constrained by their current contract. These are the easiest upsell conversations in the book — the product is already proving value, they just need more of it.
+**4. $820K/month in expansion MRR sits in the green tier.** 100 accounts with high health scores and high seat utilisation are actively constrained by their current contract. These are the easiest upsell conversations in the book — the product is already proving value, they just need more of it.
 
 ---
 
