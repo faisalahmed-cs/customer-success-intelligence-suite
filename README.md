@@ -80,14 +80,14 @@ Moderate logins, elevated tickets, NPS in the 5-6 range — they look like casua
 ## Portfolio Snapshot (April 2025)
 
 | Metric | Value |
-|--------|-------|
-| Active accounts | 323 |
-| Total ARR under management | $30,106,662 |
-| Avg portfolio health score | 62.3 / 100 |
-| Red accounts — MRR at risk | 93 accounts / $572,757/mo |
-| Yellow accounts — MRR at risk | 60 accounts / $515,739/mo |
-| Green accounts | 170 accounts |
-| Expansion pipeline | 104 accounts / $878,948/mo |
+| --- | --- |
+| Active accounts | 330 |
+| Total ARR under management | $26,850,038 |
+| Avg portfolio health score | 66.8 / 100 |
+| Red accounts — MRR at risk | 68 accounts / $462,372/mo |
+| Yellow accounts — MRR at risk | 82 accounts / $545,228/mo |
+| Green accounts | 180 accounts |
+| Expansion pipeline | 100 accounts / $820,952/mo |
 
 ---
 
