@@ -12,13 +12,15 @@ I built this because the tools exist (Gainsight, Totango, ChurnZero) but underst
 
 ## What's In Here
 
-### 1. Customer Dataset (500 accounts, ~$30M ARR)
+### 1. Customer Dataset (500 accounts, ~$26.8M ARR)
 A synthetic but realistic SaaS customer dataset built around four archetypes observed in client-facing roles:
 
 - **Power Users** — deeply embedded, low churn risk, expansion candidates
 - **Casual Adopters** — moderate engagement, need nurturing and QBR consistency
 - **At-Risk Accounts** — disengaging across multiple signals simultaneously
 - **Silent Churners** — the hardest segment: low activity, high ticket volume, missed QBRs
+
+**Churn timing is also archetype-specific:** silent churners drop off in months 1-3 (onboarding never worked), at-risk accounts disengage in months 4-7 (gradual decline), casual adopters churn at first renewal (months 9-13), and power users who do leave do so much later (months 13-18+, usually due to external events like a champion leaving). This temporal dimension is what makes the cohort retention curves show realistic decay rather than uniform churn rates.
 
 The archetype structure matters because real CS work is not about averages — it is about recognizing which type of customer you are dealing with and adjusting your playbook accordingly.
 
@@ -37,7 +39,9 @@ Logistic regression model trained on seven engagement signals:
 
 **Model performance: ROC-AUC 0.899**
 
-A perfect score (1.0) would mean the data is too clean to be realistic. 0.814 reflects what actually happens in practice — some churners look healthy right up until they cancel, and some distressed accounts renew because switching costs are high. The model is most accurate on the extremes and appropriately uncertain in the middle, which is where CSM judgment matters most.
+A perfect score (1.0) would mean the data is too clean to be realistic. 0.899 reflects what actually happens in practice — some churners look healthy right up until they cancel, and some distressed accounts renew because switching costs are high. The model is most accurate on the extremes and appropriately uncertain in the middle, which is where CSM judgment matters most.
+
+**On the bimodal probability distribution:** The model assigns high-confidence predictions to most accounts — clear retains and clear churners — and reserves uncertainty for the smaller middle band where signals genuinely conflict. This is the design goal, not a weakness: a CS team using this in production wants confident predictions on the obvious cases so CSM judgment can be focused on the genuinely ambiguous accounts in the 0.3–0.7 zone.
 
 ### 3. CS Health Score Dashboard
 Each account receives a weighted health score (0-100):
@@ -57,7 +61,8 @@ Each account receives a weighted health score (0-100):
 | Green | 70+ | Expansion conversation, case study request, referral ask |
 
 ### 4. Cohort Retention Analysis
-Tracks what percentage of each quarterly signup cohort remains active at 3, 6, 9, 12, and 24 months.
+
+Tracks what percentage of each quarterly signup cohort remains active at 3, 6, 9, 12, 18, and 24 months. Cohorts where fewer than 5 customers reached a checkpoint are masked to avoid statistically meaningless retention values from small samples — a common edge case in real cohort analysis.
 
 ---
 
